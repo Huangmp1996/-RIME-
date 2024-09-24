@@ -1,0 +1,3307 @@
+# Rime dictionary
+# encoding: utf-8
+#
+---
+name: china_fish
+version: "2024-09-22, marine fish list from wiki"
+sort: by_weight
+use_preset_vocabulary: true
+import_tables:
+  - luna_pinyin
+...
+额带刺尾鱼	e dai ci wei yu	2000
+日本刺尾鱼	ri ben ci wei yu	2000
+纵带刺尾鱼	zong dai ci wei yu	2000
+暗色刺尾鱼	an se ci wei yu	2000
+白面刺尾鱼	bai mian ci wei yu	2000
+褐斑刺尾鱼	he ban ci wei yu	2000
+橙斑刺尾鱼	cheng ban ci wei yu	2000
+黄尾刺尾鱼	huang wei ci wei yu	2000
+横带刺尾鱼	heng dai ci wei yu	2000
+黄鳍刺尾鱼	huang qi ci wei yu	2000
+高菱鲷	gao ling diao	2000
+红菱鲷	hong ling diao	2000
+绯菱鲷	fei ling diao	2000
+三点阿波鱼	san dian a bo yu	2000
+条纹金鲾	tiao wen jin bi	2000
+双棘刺尻鱼	shuang ji ci kao yu	2000
+海氏刺尻鱼	hai shi ci kao yu	2000
+白斑刺尻鱼	bai ban ci kao yu	2000
+仙女刺尻鱼	xian nv ci kao yu	2000
+福氏刺尻鱼	fu shi ci kao yu	2000
+项斑蝴蝶鱼	xiang ban hu die yu	2000
+银身蝴蝶鱼	yin shen hu die yu	2000
+丝蝴蝶鱼	si hu die yu	2000
+叉纹蝴蝶鱼	cha wen hu die yu	2000
+双丝蝴蝶鱼	shuang si hu die yu	2000
+密点蝴蝶鱼	mi dian hu die yu	2000
+领蝴蝶鱼	ling hu die yu	2000
+鞭蝴蝶鱼	bian hu die yu	2000
+珠蝴蝶鱼	zhu hu die yu	2000
+细纹蝴蝶鱼	xi wen hu die yu	2000
+新月蝴蝶鱼	xin yue hu die yu	2000
+黑背蝴蝶鱼	hei bei hu die yu	2000
+八带蝴蝶鱼	ba dai hu die yu	2000
+华丽蝴蝶鱼	hua li hu die yu	2000
+斑带蝴蝶鱼	ban dai hu die yu	2000
+格纹蝴蝶鱼	ge wen hu die yu	2000
+细点蝴蝶鱼	xi dian hu die yu	2000
+镜斑蝴蝶鱼	jing ban hu die yu	2000
+三纹蝴蝶鱼	san wen hu die yu	2000
+乌利蝴蝶鱼	wu li hu die yu	2000
+单斑蝴蝶鱼	dan ban hu die yu	2000
+斜纹蝴蝶鱼	xie wen hu die yu	2000
+丽蝴蝶鱼	li hu die yu	2000
+黄蝴蝶鱼	huang hu die yu	2000
+蓝带荷包鱼	lan dai he bao yu	2000
+钻嘴鱼	zuan zui yu	2000
+褐带少女鱼	he dai shao nv yu	2000
+少女鱼	shao nv yu	2000
+青唇栉齿刺尾鱼	qing chun zhi chi ci wei yu	2000
+栉齿刺尾鱼	zhi chi ci wei yu	2000
+长吻仰口鲾	chang wen yang kou bi	2000
+条纹鸡笼鲳	tiao wen ji long chang	2000
+斑点鸡笼鲳	ban dian ji long chang	2000
+白鲳	bai chang	2000
+曳丝马鲾	ye si ma bi	2000
+波氏马鲾	bo shi ma bi	2000
+琼斯布氏鲾	qiong si bu shi bi	2000
+黑边布氏鲾	hei bian bu shi bi	2000
+黄镊口鱼	huang nie kou yu	2000
+长吻镊口鱼	chang wen nie kou yu	2000
+小牙鲾	xiao ya bi	2000
+月蝶鱼	yue die yu	2000
+黑斑月蝶鱼	hei ban yue die yu	2000
+华髭鲷	hua zi diao	2000
+岸上氏髭鲷	an shang shi zi diao	2000
+黑鳍髭鲷	hei qi zi diao	2000
+多鳞霞蝶鱼	duo lin xia die yu	2000
+马夫鱼	ma fu yu	2000
+金口马夫鱼	jin kou ma fu yu	2000
+单角马夫鱼	dan jiao ma fu yu	2000
+四带马夫鱼	si dai ma fu yu	2000
+白带马夫鱼	bai dai ma fu yu	2000
+细纹鲾	xi wen bi	2000
+短吻鲾	duan wen bi	2000
+小马鲾	xiao ma bi	2000
+仰口鲾	yang kou bi	2000
+松鲷	song diao	2000
+鲯鲭	qi qing	2000
+突角鼻鱼	tu jiao bi yu	2000
+粗棘鼻鱼	cu ji bi yu	2000
+短吻鼻鱼	duan wen bi yu	2000
+六棘鼻鱼	liu ji bi yu	2000
+颊吻鼻鱼	jia wen bi yu	2000
+拟鲔鼻鱼	ni wei bi yu	2000
+单角鼻鱼	dan jiao bi yu	2000
+丝尾鼻鱼	si wei bi yu	2000
+若盾项鲾	ruo dun xiang bi	2000
+黄尾副刺尾鱼	huang wei fu ci wei yu	2000
+眼点副蝴蝶鱼	yan dian fu hu die yu	2000
+黄斑光胸鲾	huang ban guang xiong bi	2000
+圆燕鱼	yuan yan yu	2000
+燕鱼	yan yu	2000
+环纹刺盖鱼	huan wen ci gai yu	2000
+主刺盖鱼	zhu ci gai yu	2000
+半环刺盖鱼	ban huan ci gai yu	2000
+六带刺盖鱼	liu dai ci gai yu	2000
+三棘多板盾尾鱼	san ji duo ban dun wei yu	2000
+双棘甲尻鱼	shuang ji jia kao yu	2000
+朴蝴蝶鱼	piao hu die yu	2000
+金钱鱼	jin qian yu	2000
+长鳍篮子鱼	chang qi lan zi yu	2000
+凹吻篮子鱼	ao wen lan zi yu	2000
+褐篮子鱼	he lan zi yu	2000
+星斑篮子鱼	xing ban lan zi yu	2000
+爪哇篮子鱼	zhao wa lan zi yu	2000
+眼带篮子鱼	yan dai lan zi yu	2000
+斑篮子鱼	ban lan zi yu	2000
+刺篮子鱼	ci lan zi yu	2000
+蓝带篮子鱼	lan dai lan zi yu	2000
+角镰鱼	jiao lian yu	2000
+黄高鳍刺尾鱼	huang gao qi ci wei yu	2000
+小高鳍刺尾鱼	xiao gao qi ci wei yu	2000
+横带高鳍刺尾鱼	heng dai gao qi ci wei yu	2000
+鳃斑刺尾鱼	sai ban ci wei yu	2000
+布氏刺尾鱼	bu shi ci wei yu	2000
+斑点刺尾鱼	ban dian ci wei yu	2000
+白颊刺尾鱼	bai jia ci wei yu	2000
+斑头刺尾鱼	ban tou ci wei yu	2000
+黑尾刺尾鱼	hei wei ci wei yu	2000
+黑鳃刺尾鱼	hei sai ci wei yu	2000
+红海刺尾鱼	hong hai ci wei yu	2000
+二色刺尻鱼	er se ci kao yu	2000
+锈红刺尻鱼	xiu hong ci kao yu	2000
+条尾刺尻鱼	tiao wei ci kao yu	2000
+断线刺尻鱼	duan xian ci kao yu	2000
+黑刺尻鱼	hei ci kao yu	2000
+曲纹蝴蝶鱼	qu wen hu die yu	2000
+纹带蝴蝶鱼	wen dai hu die yu	2000
+贡氏蝴蝶鱼	gong shi hu die yu	2000
+马达加斯加蝴蝶鱼	ma da jia si jia hu die yu	2000
+默氏蝴蝶鱼	mo shi hu die yu	2000
+麦氏蝴蝶鱼	mai shi hu die yu	2000
+粟点蝴蝶鱼	su dian hu die yu	2000
+日本蝴蝶鱼	ri ben hu die yu	2000
+四棘蝴蝶鱼	si ji hu die yu	2000
+四点蝴蝶鱼	si dian hu die yu	2000
+网纹蝴蝶鱼	wang wen hu die yu	2000
+弯月蝴蝶鱼	wan yue hu die yu	2000
+三角蝴蝶鱼	san jiao hu die yu	2000
+三带蝴蝶鱼	san dai hu die yu	2000
+网纹头荷包鱼	wang wen tou he bao yu	2000
+黄头荷包鱼	huang tou he bao yu	2000
+眼带荷包鱼	yan dai he bao yu	2000
+黑身荷包鱼	hei shen he bao yu	2000
+中白荷包鱼	zhong bai he bao yu	2000
+罩面荷包鱼	zhao mian he bao yu	2000
+双斑栉齿刺尾鱼	shuang ban zhi chi ci wei yu	2000
+印度仰口鲾	yin du yang kou bi	2000
+间断仰口鲾	jian duan yang kou bi	2000
+秘马鲾	mi ma bi	2000
+粗纹马鲾	cu wen ma bi	2000
+条马鲾	tiao ma bi	2000
+宽身牙鲾	kuan shen ya bi	2000
+半纹月蝶鱼	ban wen yue die yu	2000
+渡边月蝶鱼	du bian yue die yu	2000
+黑斑卡拉鲾	hei ban ka la bi	2000
+洛氏鼻鱼	luo shi bi yu	2000
+斑鼻鱼	ban bi yu	2000
+小鼻鱼	xiao bi yu	2000
+网纹鼻鱼	wang wen bi yu	2000
+大眼鼻鱼	da yan bi yu	2000
+球吻鼻鱼	qiu wen bi yu	2000
+圈项鲾	quan xiang bi	2000
+项斑项鲾	xiang ban xiang bi	2000
+多带副锯刺盖鱼	duo dai fu ju ci gai yu	2000
+金黄光胸鲾	jin huang guang xiong bi	2000
+印尼燕鱼	yin ni yan yu	2000
+弯鳍燕鱼	wan qi yan yu	2000
+弓纹刺盖鱼	gong wen ci gai yu	2000
+马鞍刺盖鱼	ma an ci gai yu	2000
+黄颅刺盖鱼	huang lu ci gai yu	2000
+银色篮子鱼	yin se lan zi yu	2000
+黑身篮子鱼	hei shen lan zi yu	2000
+狐篮子鱼	hu lan zi yu	2000
+长身马鲾	chang shen ma bi	2000
+杜氏卡拉鲾	du shi ka la bi	2000
+中华鲟	zhong hua xun	2000
+白鲟	bai xun	2000
+日本发光鲷	ri ben fa guang diao	2000
+寿鱼	shou yu	2000
+短鳄齿鱼	duan e chi yu	2000
+赤鯥	chi lu	2000
+叶鲷	ye diao	2000
+帆鳍鱼	fan qi yu	2000
+布氏尖棘鲷	bu shi jian ji diao	2000
+日本花鲈	ri ben hua lu	2000
+美软鱼	mei ruan yu	2000
+灰软鱼	hui ruan yu	2000
+暗单鳍鱼	an dan qi yu	2000
+日本单鳍鱼	ri ben dan qi yu	2000
+黑稍单鳍鱼	hei shao dan qi yu	2000
+日本五棘鲷	ri ben wu ji diao	2000
+牛眼青鯥	niu yan qing lu	2000
+日本尖牙鲈	ri ben jian ya lu	2000
+须棘吻鱼	xu ji wen yu	2000
+圆鳞发光鲷	yuan lin fa guang diao	2000
+深海拟野鲈	shen hai ni ye lu	2000
+贡氏鳄齿鱼	gong shi e chi yu	2000
+条纹沼泽鱼	tiao wen zhao ze yu	2000
+胁谷软鱼	xie gu ruan yu	2000
+细身深海鲱	xi shen shen hai fei	2000
+日台深海鲱	ri tai shen hai fei	2000
+台湾小骨䲢	tai wan xiao gu teng	2000
+红海副单鳍鱼	hong hai fu dan qi yu	2000
+多棘拟鯥	duo ji ni lu	2000
+舌齿拟鯥	she chi ni lu	2000
+望月氏拟鯥	wang yue zhi ni lu	2000
+中山氏拟鯥	zhong shan shi ni lu	2000
+小鳞尖牙鲈	xiao lin jian ya lu	2000
+锯棘尖牙鲈	ju ji jian ya lu	2000
+山野上氏拟鯥	shan ye shang shi ni lu	2000
+白边单鳍鱼	bai bian dan qi yu	2000
+银腹单鳍鱼	yin fu dan qi yu	2000
+黑缘单鳍鱼	hei yuan dan qi yu	2000
+帆鳍鲈䲢	fan qi lu teng	2000
+片山愈牙鮨	pian shan yu ya yi	2000
+太平洋新鯥	tai ping yang xin lu	2000
+摩鹿加单鳍鱼	mo lu jia dan qi yu	2000
+圆颌北梭鱼	yuan he bei suo yu	2000
+北梭鱼	bei suo yu	2000
+长背鱼	chang bei yu	2000
+东海北梭鱼	dong hai bei suo yu	2000
+长鳍平头鱼	chang qi ping tou yu	2000
+长吻平头鱼	chang wen ping tou yu	2000
+尖吻平头鱼	jian wen ping tou yu	2000
+暗首平头鱼	an shou ping tou yu	2000
+连尾细皮平头鱼	lian wei xi pi ping tou yu	2000
+鲁氏黑口鱼	lu shi hei kou yu	2000
+根室鲁氏鱼	gen shi lu shi yu	2000
+渡濑鲁氏鱼	du lai lu shi yu	2000
+安的列斯塔氏鱼	an di lie si ta shi yu	2000
+短头塔氏鱼	duan tou ta shi yu	2000
+双色平头鱼	shuang se ping tou yu	2000
+日本裸平头鱼	ri ben luo ping tou yu	2000
+日本鳗鲡	ri ben man li	2000
+花鳗鲡	hua man li	2000
+橘斑无鳍蛇鳗	ju ban wu qi she man	2000
+穴美体鳗	xue mei ti man	2000
+拟穴美体鳗	ni xue mei ti man	2000
+大奇鳗	da qi man	2000
+喙吻鳗	hui wen man	2000
+长鳍褐蛇鳗	chang qi he she man	2000
+深海尾鳗	shen hai wei man	2000
+鳄形短体蛇鳗	e xing duan ti she man	2000
+紫身短体蛇鳗	zi shen duan ti she man	2000
+斑纹丽蛇鳗	ban wen li she man	2000
+中华须鳗	zhong hua xu man	2000
+元鼎须鳗	yuan ding xu man	2000
+灰康吉鳗	hui kang ji man	2000
+日本康吉鳗	ri ben kang ji man	2000
+星康吉鳗	xing kang ji man	2000
+似原鹤海鳗	si yuan he hai man	2000
+前肛鳗	qian gang man	2000
+棕斑蛇鳝	zong ban she shan	2000
+云纹蛇鳝	yun wen she shan	2000
+多带蛇鳝	duo dai she shan	2000
+尼氏颌吻鳗	ni shi he wen man	2000
+条纹裸海鳝	tiao wen luo hai shan	2000
+细斑裸胸鳝	xi ban luo xiong shan	2000
+黄边裸胸鳝	huang bian luo xiong shan	2000
+魔斑裸胸鳝	mo ban luo xiong shan	2000
+斑点裸胸鳝	ban dian luo xiong shan	2000
+小裸胸鳝	xiao luo xiong shan	2000
+花斑裸胸鳝	hua ban luo xiong shan	2000
+锯齿裸胸鳝	ju chi luo xiong shan	2000
+密网裸胸鳝	mi wang luo xiong shan	2000
+斑条裸胸鳝	ban tiao luo xiong shan	2000
+匀斑裸胸鳝	yun ban luo xiong shan	2000
+网纹裸胸鳝	wang wen luo xiong shan	2000
+异纹裸胸鳝	yi wen luo xiong shan	2000
+鞍斑裸胸鳝	an ban luo xiong shan	2000
+密点裸胸鳝	mi dian luo xiong shan	2000
+波纹裸胸鳝	bo wen luo xiong shan	2000
+半环盖蛇鳗	ban huan gai she man	2000
+大头蚓鳗	da tou yin man	2000
+褐海鳗	he hai man	2000
+海鳗	hai man	2000
+山口海鳗	shan kou hai man	2000
+裸鳍虫鳗	luo qi chong man	2000
+斑竹花蛇鳗	ban zhu hua she man	2000
+斑纹花蛇鳗	ban wen hua she man	2000
+微鳍新蛇鳗	wei qi xin she man	2000
+线鳗	xian man	2000
+小头丝鳗	xiao tou si man	2000
+尖吻蛇鳗	jian wen she man	2000
+横带蛇鳗	heng dai she man	2000
+后鳍蛇鳗	hou qi she man	2000
+张氏蛇鳗	zhang shi she man	2000
+伍氏蛇鳗	wu shi she man	2000
+大吻沙蛇鳗	da wen sha she man	2000
+细颌鳗	xi he man	2000
+大眼拟海蠕鳗	da yan ni hai ru man	2000
+杂食豆齿鳗	za shi dou chi man	2000
+食蟹豆齿鳗	shi xie dou chi man	2000
+线尾蜥鳗	xian wei xi man	2000
+虎斑鞭尾鳝	hu ban bian wei shan	2000
+寄生鳗	ji sheng man	2000
+长鳍合鳃鳗	chang qi he sai man	2000
+短背鳍合鳃鳗	duan bei qi he sai man	2000
+高氏合鳃鳗	gao shi he sai man	2000
+尖尾鳗	jian wei man	2000
+单色尾鳝	dan se wei shan	2000
+花斑尾鳝	hua ban wei shan	2000
+列齿蛇鳗	lie chi she man	2000
+褐高眉鳝	he gao mei shan	2000
+双色鳗鲡	shuang se man li	2000
+条纹美体鳗	tiao wen mei ti man	2000
+米克氏美体鳗	mi ke shi mei ti man	2000
+白穴美体鳗	bai xue mei ti man	2000
+龟壁湾褐蛇鳗	gui bi wan he she man	2000
+黑口深海糯鳗	hei kou shen hai nuo man	2000
+网格深海康吉鳗	wang ge shen hai kang ji man	2000
+锉吻渊油鳗	cuo wen yuan you man	2000
+须唇短体蛇鳗	xu chun duan ti she man	2000
+长鳍短体蛇鳗	chang qi duan ti she man	2000
+云纹丽蛇鳗	yun wen li she man	2000
+宽带鳢鳝	kuan dai li shan	2000
+南海草鳗	nan hai cao man	2000
+麦氏无鳍须蛇鳗	mai shi wu qi xu she man	2000
+台湾颌须鳝	tai wan he xu shan	2000
+斑点短糯鳗	ban dian duan nuo man	2000
+原鹤海鳗	yuan he hai man	2000
+长身前肛鳗	chang shen qian gang man	2000
+高氏前肛鳗	gao shi qian gang man	2000
+长吻前肛鳗	chang wen qian gang man	2000
+黑尾前肛鳗	hei wei qian gang man	2000
+后臀前肛鳗	hou tun qian gang man	2000
+多齿前肛鳗	duo chi qian gang man	2000
+台湾前肛鳗	tai wan qian gang man	2000
+后肛鳗	hou gang man	2000
+多椎鳍蠕鳗	duo chui qi ru man	2000
+黄点蛇鳝	huang dian she shan	2000
+贝氏勾吻鳝	bei shi gou wen shan	2000
+比基尼勾吻鳝	bi ji ni gou wen shan	2000
+苔斑勾吻鳝	tai ban gou wen shan	2000
+褐勾吻鳝	he gou wen shan	2000
+豹纹勾吻鳝	bao wen gou wen shan	2000
+裂纹勾吻鳝	lie wen gou wen shan	2000
+台湾鳄头鳗	tai wan e tou man	2000
+日本园鳗	ri ben yuan man	2000
+台湾园鳗	tai wan yuan man	2000
+白缘裸胸鳝	bai yuan luo xiong shan	2000
+班第氏裸胸鳝	ban di shi luo xiong shan	2000
+伯恩斯裸胸鳝	bo en si luo xiong shan	2000
+云纹裸胸鳝	yun wen luo xiong shan	2000
+黑环裸胸鳝	hei huan luo xiong shan	2000
+霉身裸胸鳝	mei shen luo xiong shan	2000
+豆点裸胸鳝	dou dian luo xiong shan	2000
+白边裸胸鳝	bai bian luo xiong shan	2000
+海氏裸胸鳝	hai shi luo xiong shan	2000
+爪哇裸胸鳝	zhao wa luo xiong shan	2000
+蠕纹裸胸鳝	ru wen luo xiong shan	2000
+斑项裸胸鳝	ban xiang luo xiong shan	2000
+黑身裸胸鳝	hei shen luo xiong shan	2000
+黄体裸胸鳝	huang ti luo xiong shan	2000
+眼斑裸胸鳝	yan ban luo xiong shan	2000
+细花斑裸胸鳝	xi hua ban luo xiong shan	2000
+雪花斑裸胸鳝	xue hua ban luo xiong shan	2000
+裸犁裸胸鳝	luo li luo xiong shan	2000
+无斑裸胸鳝	wu ban luo xiong shan	2000
+平氏裸胸鳝	ping shi luo xiong shan	2000
+豹纹裸胸鳝	bao wen luo xiong shan	2000
+长身裸胸鳝	chang shen luo xiong shan	2000
+拟黑身裸胸鯙	ni hei shen luo xiong chun	2000
+鞍头裸胸鳝	an tou luo xiong shan	2000
+邵氏裸胸鯙	shao shi luo xiong chun	2000
+台湾裸胸鳝	tai wan luo xiong shan	2000
+褐首裸胸鳝	he shou luo xiong shan	2000
+带尾裸胸鳝	dai wei luo xiong shan	2000
+哈氏异康吉鳗	ha shi yi kang ji man	2000
+双齿眶鼻鳗	shuang chi kuang bi man	2000
+高体眶鼻鳗	gao ti kuang bi man	2000
+短吻大头糯鳗	duan wen da tou nuo man	2000
+罗氏箭齿前肛鳗	luo shi jian chi qian gang man	2000
+短线蚓鳗	duan xian yin man	2000
+陈氏新蛇鳗	chen shi xin she man	2000
+异新鳗	yi xin man	2000
+麦氏新蛇鳗	mai shi xin she man	2000
+大洋新鳗	da yang xin man	2000
+长身新蛇鳗	chang shen xin she man	2000
+暗鳍蛇鳗	an qi she man	2000
+高鳍蛇鳗	gao qi she man	2000
+鲍氏蛇鳗	bao shi she man	2000
+西里伯斯蛇鳗	xi li bo si she man	2000
+项斑蛇鳗	xiang ban she man	2000
+斑纹蛇鳗	ban wen she man	2000
+石蛇鳗	shi she man	2000
+大鳍蛇鳗	da qi she man	2000
+多斑蛇鳗	duo ban she man	2000
+半月蛇鳗	ban yue she man	2000
+柴田氏蛇鳗	chai tian shi she man	2000
+裙鳍蛇鳗	qun qi she man	2000
+短吻拟海蠕鳗	duan wen ni hai ru man	2000
+拟蛇鳝	ni she shan	2000
+何氏双鳍鳗	he shi shuang qi man	2000
+大口管鼻鳝	da kou guan bi shan	2000
+黑尾吻鳗	hei wei wen man	2000
+裸身蠕蛇鳗	luo shen ru she man	2000
+爱氏蠕蛇鳗	ai shi ru she man	2000
+大鳍蠕蛇鳗	da qi ru she man	2000
+长背长鯙	chang bei chang chun	2000
+长尾弯牙海鳝	chang wei wan ya hai shan	2000
+大头尾鳝	da tou wei shan	2000
+小鳍尾鳝	xiao qi wei shan	2000
+网纹尾鳝	wang wen wei shan	2000
+少椎尾鳝	shao chui wei shan	2000
+邱氏列齿蛇鳗	qiu shi lie chi she man	2000
+米苏尔细犁鳗	mi su er xi li man	2000
+大眼美体鳗	da yan mei ti man	2000
+鹿儿岛水珍鱼	lu er dao shui zhen yu	2000
+长头胸翼鱼	chang tou xiong yi yu	2000
+南氏鱼	nan shi yu	2000
+后肛鱼	hou gang yu	2000
+半带舌珍鱼	ban dai she zhen yu	2000
+日本辫鱼	ri ben bian yu	2000
+紫辫鱼	zi bian yu	2000
+大眼大辫鱼	da yan da bian yu	2000
+南洋美银汉鱼	nan yang mei yin han yu	2000
+坦氏下银汉鱼	tan shi xia yin han yu	2000
+凡氏下银汉鱼	fan shi xia yin han yu	2000
+岛屿美银汉鱼	dao yu mei yin han yu	2000
+壮体美银汉鱼	zhuang ti mei yin han yu	2000
+糙头细银汉鱼	cao tou xi yin han yu	2000
+后肛下银汉鱼	hou gang xia yin han yu	2000
+吴氏下银汉鱼	wu shi xia yin han yu	2000
+浪花银汉鱼	lang hua yin han yu	2000
+澳洲浪花银汉鱼	ao zhou lang hua yin han yu	2000
+帆蜥鱼	fan xi yu	2000
+小眼深海狗母鱼	xiao yan shen hai gou mu yu	2000
+贡氏深海狗母鱼	gong shi shen hai gou mu yu	2000
+舌齿深海珠目鱼	she chi shen hai zhu mu yu	2000
+尖额青眼鱼	jian e qing yan yu	2000
+尖吻青眼鱼	jian wen qing yan yu	2000
+大眼青眼鱼	da yan qing yan yu	2000
+黑缘青眼鱼	hei yuan qing yan yu	2000
+阿氏谷口鱼	a shi gu kou yu	2000
+印度齿口鱼	yin du chi kou yu	2000
+短臂龙头鱼	duan bi long tou yu	2000
+龙头鱼	long tou yu	2000
+日本姬鱼	ri ben ji yu	2000
+长裸蜥鱼	chang luo xi yu	2000
+日本光鳞鱼	ri ben guang lin yu	2000
+细眼拟强牙巨口鱼	xi yan ni qiang ya ju kou yu	2000
+锤颌鱼	chui he yu	2000
+长体蛇鲻	chang ti she zi	2000
+长条蛇鲻	chang tiao she zi	2000
+细蛇鲻	xi she zi	2000
+小鳞蛇鲻	xiao lin she zi	2000
+短臂蛇鲻	duan bi she zi	2000
+多齿蛇鲻	duo chi she zi	2000
+鳄蛇鲻	e she zi	2000
+柔珠目鱼	rou zhu mu yu	2000
+根室珠目鱼	gen shi zhu mu yu	2000
+双斑狗母鱼	shuang ban gou mu yu	2000
+褐狗母鱼	he gou mu yu	2000
+肩班狗母鱼	jian ban gou mu yu	2000
+射狗母鱼	she gou mu yu	2000
+方斑狗母鱼	fang ban gou mu yu	2000
+叉斑狗母鱼	cha ban gou mu yu	2000
+红花斑狗母鱼	hong hua ban gou mu yu	2000
+红斑狗母鱼	hong ban gou mu yu	2000
+杂斑狗母鱼	za ban gou mu yu	2000
+拟龙䲢大头花杆狗母	ni long teng da tou hua gan gou mu	2000
+北域青眼鱼	bei yu qing yan yu	2000
+台湾姬鱼	tai wan ji yu	2000
+达氏姬鱼	da shi ji yu	2000
+长灯裸蜥鱼	chang deng luo xi yu	2000
+东方裸蜥鱼	dong fang luo xi yu	2000
+卢氏裸蜥鱼	lu shi luo xi yu	2000
+中间光鳞鱼	zhong jian guang lin yu	2000
+黑腹光鳞鱼	hei fu guang lin yu	2000
+云纹蛇鲻	yun wen she zi	2000
+梅芳蛇鲻	mei fang she zi	2000
+艾氏弱蜥鱼	ai shi ruo xi yu	2000
+羊角狗母鱼	yang jiao gou mu yu	2000
+革狗母鱼	ge gou mu yu	2000
+道氏狗母鱼	dao shi gou mu yu	2000
+洛氏狗母鱼	luo shi gou mu yu	2000
+东方狗母鱼	dong fang gou mu yu	2000
+太平洋狗母鱼	tai ping yang gou mu yu	2000
+台湾狗母鱼	tai wan gou mu yu	2000
+肩盖狗母鱼	jian gai gou mu yu	2000
+横带小孔蟾鱼	heng dai xiao kong chan yu	2000
+横带扁颌针鱼	heng dai bian he zhen yu	2000
+燕鳐须唇飞鱼	yan yao xu chun fei yu	2000
+弓头唇须飞鱼	gong tou chun xu fei yu	2000
+红斑须唇飞鱼	hong ban xu chun fei yu	2000
+青翼须唇飞鱼	qing yi xu chun fei yu	2000
+多氏须唇飞鱼	duo shi xu chun fei yu	2000
+翼髭须唇飞鱼	yi zi xu chun fei yu	2000
+点鳍须唇飞鱼	dian qi xu chun fei yu	2000
+秋刀鱼	qiu dao yu	2000
+少鳞燕鳐鱼	shao lin yan yao yu	2000
+花鳍燕鳐鱼	hua qi yan yao yu	2000
+斯氏燕鳐鱼	si shi yan yao yu	2000
+长吻鱵	chang wen zhen	2000
+大头飞鱼	da tou fei yu	2000
+黑鳍鱵	hei qi zhen	2000
+斑鱵	ban zhen	2000
+尖头文鳐鱼	jian tou wen yao yu	2000
+黑翼文鳐鱼	hei yi wen yao yu	2000
+尖鳍文鳐鱼	jian qi wen yao yu	2000
+杜氏下鱵鱼	du shi xia zhen yu	2000
+简氏下鱵鱼	jian shi xia zhen yu	2000
+间下鱵	jian xia zhen	2000
+缘下鱵	yuan xia zhen	2000
+少耙下鱵鱼	shao pa xia zhen yu	2000
+瓜氏下鱵鱼	gua shi xia zhen yu	2000
+沙氏下鱵	sha shi xia zhen	2000
+白鳍飞鱵	bai qi fei zhen	2000
+短鳍拟飞鱼	duan qi ni fei yu	2000
+宽尾颌针鱼	kuan wei he zhen yu	2000
+乔氏吻鱵	qiao shi wen zhen	2000
+尖嘴柱颌针鱼	jian zui zhu he zhen yu	2000
+无斑柱颌针鱼	wu ban zhu he zhen yu	2000
+尾斑柱颌针鱼	wei ban zhu he zhen yu	2000
+大圆颌针鱼	da yuan he zhen yu	2000
+叉尾颌针鱼	cha wei he zhen yu	2000
+蟾异鳞鱵	chan yi lin zhen	2000
+斑翼须唇飞鱼	ban yi xu chun fei yu	2000
+点背须唇飞鱼	dian bei xu chun fei yu	2000
+苏氏须唇飞鱼	su shi xu chun fei yu	2000
+白鳍须唇飞鱼	bai qi xu chun fei yu	2000
+细头燕鳐鱼	xi tou yan yao yu	2000
+纳氏燕鳐鱼	na shi yan yao yu	2000
+单须飞鱼	dan xu fei yu	2000
+无斑鱵	wu ban zhen	2000
+尤氏下鱵鱼	you shi xia zhen yu	2000
+长颌拟飞鱼	chang he ni fei yu	2000
+短鳍真燕鳐	duan qi zhen yan yao	2000
+琉球柱颌针鱼	liu qiu zhu he zhen yu	2000
+董氏异鳞鱵	dong shi yi lin zhen	2000
+单峰燕鳐鱼	shan feng yan yao yu	2000
+条纹异鳞鱵	tiao wen yi lin zhen	2000
+罗氏棘冠鲷	luo shi ji guan diao	2000
+红刺鲸口鱼	hong ci jing kou yu	2000
+红金眼鲷	hong jin yan diao	2000
+线纹拟棘鲷	xian wen ni ji diao	2000
+裂鲸口鱼	lie jing kou yu	2000
+莫桑比克真鳗口鱼	mo sang bi ke zhen man kou yu	2000
+洞孔头鲷	dong kong tou diao	2000
+网肩龙氏鲸头鱼	wang jian long shi jing tou yu	2000
+后鳍灯孔鲷	hou qi deng kong diao	2000
+壮体灯孔鲷	zhuang ti deng kong diao	2000
+大鳞鳃孔鲷	da lin sai kong diao	2000
+大鳞鳞孔鲷	da lin lin kong diao	2000
+方头狮鼻鱼	fang tou shi bi yu	2000
+大目金眼鲷	da mu jin yan diao	2000
+金眼拟棘鲷	jin yan ni ji diao	2000
+多耙孔头鲷	duo pa kong tou diao	2000
+纵带盾齿鳚	zong dai dun chi wei	2000
+围眼真动齿鳚	wei yan zhen dong chi wei	2000
+颊纹穗肩鳚	jia wen sui jian wei	2000
+斑穗肩鳚	ban sui jian wei	2000
+暗褐穗肩鳚	an he sui jian wei	2000
+筛口双线鳚	shai kou shuang xian wei	2000
+菲律宾双线鳚	fei lv bin shuang xian wei	2000
+尾带犁齿鳚	wei dai li chi wei	2000
+赖氏犁齿鳚	lai shi li chi wei	2000
+奇卡弯线鳚	qi ka wan xian wei	2000
+四纹弯线鳚	si wen wan xian wei	2000
+杜氏动齿鳚	du shi dong chi wei	2000
+暗纹动齿鳚	an wen dong chi wei	2000
+条纹动齿鳚	tiao wen dong chi wei	2000
+金鳍稀棘鳚	jin qi xi ji wei	2000
+金色肩鳃鳚	jin se jian sai wei	2000
+美肩鳃鳚	mei jian sai wei	2000
+长肩鳃鳚	chang jian sai wei	2000
+斑头肩鳃鳚	ban tou jian sai wei	2000
+吉氏肩鳃鳚	ji shi jian sai wei	2000
+粗吻短带鳚	cu wen duan dai wei	2000
+叉短带鳚	cha duan dai wei	2000
+窄体短带鳚	zhai ti duan dai wei	2000
+灿烂棒鳚	can lan bang wei	2000
+细纹凤鳚	xi wen feng wei	2000
+带鳚	dai wei	2000
+跳弹鳚	tiao dan wei	2000
+雷氏唇盘鳚	lei shi chun pan wei	2000
+四指唇盘鳚	si zhi chun pan wei	2000
+杜氏盾齿鳚	du shi dun chi wei	2000
+对斑真动齿鳚	dui ban zhen dong chi wei	2000
+尾纹真动齿鳚	wei wen zhen dong chi wei	2000
+红点真动齿鳚	hong dian zhen dong chi wei	2000
+断纹真动齿鳚	duan wen zhen dong chi wei	2000
+海伦额角三鳍鳚	hai lun e jiao san qi wei	2000
+项斑穗肩鳚	xiang ban sui jian wei	2000
+丝背穗肩鳚	si bei sui jian wei	2000
+微斑穗肩鳚	wei ban sui jian wei	2000
+紫黑穗肩鳚	zi hei sui jian wei	2000
+袋穗肩鳚	dai sui jian wei	2000
+多斑穗肩鳚	duo ban sui jian wei	2000
+二色异齿鳚	er se yi chi wei	2000
+额异齿鳚	e yi chi wei	2000
+线纹异齿鳚	xian wen yi chi wei	2000
+纳氏异齿鳚	na shi yi chi wei	2000
+眼斑异齿鳚	yan ban yi chi wei	2000
+八重山岛异齿鳚	ba chong shan dao yi chi wei	2000
+克氏连鳍鳚	ke shi lian qi wei	2000
+马来双线鳚	ma lai shuang xian wei	2000
+陈氏双线鳚	chen shi shuang xian wei	2000
+美丽双线鳚	mei li shuang xian wei	2000
+条纹双线鳚	tiao wen shuang xian wei	2000
+黄项双线鳚	huang xiang shuang xian wei	2000
+黑腹双线鳚	hei fu shuang xian wei	2000
+半黑双线鳚	ban hei shuang xian wei	2000
+孝真双线鳚	xiao zhen shuang xian wei	2000
+白点双线鳚	bai dian shuang xian wei	2000
+小双线鳚	xiao shuang xian wei	2000
+矮双线鳚	ai shuang xian wei	2000
+黑色双线鳚	hei se shuang xian wei	2000
+黑尾双线鳚	hei wei shuang xian wei	2000
+淡白斑双线鳚	dan bai ban shuang xian wei	2000
+棒状双线鳚	bang zhuang shuang xian wei	2000
+红尾双线鳚	hong wei shuang xian wei	2000
+卲氏双线鳚	shao shi shuang xian wei	2000
+沈氏双线鳚	shen shi shuang xian wei	2000
+隆背双线鳚	long bei shuang xian wei	2000
+单斑双线鳚	dan ban shuang xian wei	2000
+斑纹犁齿鳚	ban wen li chi wei	2000
+触角犁齿鳚	chu jiao li chi wei	2000
+长须犁齿鳚	chang xu li chi wei	2000
+云纹犁齿鳚	yun wen li chi wei	2000
+点斑犁齿鳚	dian ban li chi wei	2000
+海犁齿鳚	hai li chi wei	2000
+短豹鳚	duan bao wei	2000
+黑鳍弯线鳚	hei qi wan xian wei	2000
+三角弯线鳚	san jiao wan xian wei	2000
+钝吻弯线鳚	dun wen wan xian wei	2000
+纵带弯线鳚	zong dai wan xian wei	2000
+斑鳍弯线鳚	ban qi wan xian wei	2000
+威氏弯线鳚	wei shi wan xian wei	2000
+穆氏动齿鳚	mu shi dong chi wei	2000
+长棘宽颌鳚	chang ji kuan he wei	2000
+多斑宽颌鳚	duo ban kuan he wei	2000
+黑带稀棘鳚	hei dai xi ji wei	2000
+浅带稀棘鳚	qian dai xi ji wei	2000
+黑点仿鳚	hei dian fang wei	2000
+裸新热鳚	luo xin re wei	2000
+短鳞诺福克鳚	duan lin nuo fu ke wei	2000
+斑点肩鳃鳚	ban dian jian sai wei	2000
+八部副鳚	ba bu fu wei	2000
+赫氏龟鳚	he shi gui wei	2000
+短头跳岩鳚	duan tou tiao yan wei	2000
+高鳍跳岩鳚	gao qi tiao yan wei	2000
+史氏跳岩鳚	shi shi tiao yan wei	2000
+变色跳岩鳚	bian se tiao yan wei	2000
+云雀短带鳚	yun que duan dai wei	2000
+吻纹矮冠鳚	wen wen ai guan wei	2000
+种子岛矮冠鳚	zhong zi dao ai guan wei	2000
+敏鳚	min wei	2000
+黄身跳矶鳚	huang shen tiao ji wei	2000
+塞舌尔呆鳚	sai she er dai wei	2000
+黑鞍斑双线鳚	hei an ban shuang xian wei	2000
+星斑犁齿鳚	xing ban li chi wei	2000
+缨副鳚	ying fu wei	2000
+基岛深水䲗	ji dao shen shui xian	2000
+大鳍䲗	da qi xian	2000
+本氏䲗	ben shi xian	2000
+弯角䲗	wan jiao xian	2000
+丝背䲗	si bei xian	2000
+斑鳍䲗	ban qi xian	2000
+单丝䲗	dan si xian	2000
+海南䲗	hai nan xian	2000
+海氏䲗	hai shi xian	2000
+日本䲗	ri ben xian	2000
+朝鲜䲗	chao xian xian	2000
+弯月䲗	wan yue xian	2000
+落合氏䲗	luo he shi xian	2000
+斑臀䲗	ban tun xian	2000
+箭䲗	jian xian	2000
+沙氏䲗	sha shi xian	2000
+瓦氏䲗	wa shi xian	2000
+珠点粗棘蜥䲗	zhu dian cu ji xi xian	2000
+指脚䲗	zhi jiao xian	2000
+葛罗姆双线䲗	ge luo mu shuang xian xian	2000
+蜥䲗	xi xian	2000
+单鳍喉褶䲗	dan qi hou zhe xian	2000
+长崎斜棘䲗	chang qi xie ji xian	2000
+香斜棘䲗	xiang xie ji xian	2000
+饰鳍斜棘䲗	shi qi xie ji xian	2000
+丝鳍斜棘䲗	si qi xie ji xian	2000
+红连鳍䲗	hong lian qi xian	2000
+侧斑连鳍䲗	ce ban lian qi xian	2000
+眼斑连鳍䲗	yan ban lian qi xian	2000
+台湾䲗	tai wan xian	2000
+黑缘䲗	hei yuan xian	2000
+南方䲗	nan fang xian	2000
+扁身䲗	bian shen xian	2000
+白臀䲗	bai tun xian	2000
+粗首䲗	cu shou xian	2000
+暗带双线䲗	an dai shuang xian xian	2000
+益田氏棘红䲗	yi tian shi ji hong xian	2000
+曳丝拟美尾䲗	ye si ni mei wei xian	2000
+戴氏连鳍䲗	dai shi lian qi xian	2000
+格氏连鳍䲗	ge shi lian qi xian	2000
+线纹连鳍䲗	xian wen lian qi xian	2000
+莫氏连鳍䲗	mo shi lian qi xian	2000
+绣鳍连鳍䲗	xiu qi lian qi xian	2000
+花斑连鳍䲗	hua ban lian qi xian	2000
+贝氏䲗	bei shi xian	2000
+多鳞四指马鲅	duo lin si zhi ma ba	2000
+乳香鱼	ru xiang yu	2000
+尖吻鲈	jian wen lu	2000
+眼镜鱼	yan jing yu	2000
+五指多指马鲅	wu zhi duo zhi ma ba	2000
+六指多指马鲅	liu zhi duo zhi ma ba	2000
+红眼沙鲈	hong yan sha lu	2000
+大魣	da xu	2000
+大眼魣	da yan xu	2000
+黄带魣	huang dai xu	2000
+斑条魣	ban tiao xu	2000
+钝魣	dun xu	2000
+油魣	you xu	2000
+四指马鲅	si zhi ma ba	2000
+小口马鲅鱼	xiao kou ma ba yu	2000
+六丝多指马鲅	liu si duo zhi ma ba	2000
+尖鳍魣	jian qi xu	2000
+黄尾魣	huang wei xu	2000
+日本魣	ri ben xu	2000
+倒牙魣	dao ya xu	2000
+箭魣	jian xu	2000
+丝鲹	si shen	2000
+印度丝鲹	yin du si shen	2000
+吉打副叶鲹	ji da fu ye shen	2000
+黑鳍副叶鲹	hei qi fu ye shen	2000
+范氏副叶鲹	fan shi fu ye shen	2000
+沟鲹	gou shen	2000
+游鳍叶鲹	you qi ye shen	2000
+甲若鲹	jia ruo shen	2000
+长吻若鲹	chang wen ruo shen	2000
+青羽若鲹	qing yu ruo shen	2000
+背点若鲹	bei dian ruo shen	2000
+高体若鲹	gao ti ruo shen	2000
+平线若鲹	ping xian ruo shen	2000
+黄点若鲹	huang dian ruo shen	2000
+裸胸若鲹	luo xiong ruo shen	2000
+海兰德若鲹	hai lan de ruo shen	2000
+马拉巴若鲹	ma la ba ruo shen	2000
+卵圆若鲹	luan yuan ruo shen	2000
+横带若鲹	heng dai ruo shen	2000
+褐背若鲹	he bei ruo shen	2000
+白舌若鲹	bai she ruo shen	2000
+珍鲹	zhen shen	2000
+阔步鲹	kuo bu shen	2000
+黑尻鲹	hei kao shen	2000
+六带鲹	liu dai shen	2000
+棘鲯鳅	ji qi qiu	2000
+鲯鳅	qi qiu	2000
+无斑圆鲹	wu ban yuan shen	2000
+长身圆鲹	chang shen yuan shen	2000
+蓝圆鲹	hong bei yuan shen	2000
+罗氏圆鲹	luo shi yuan shen	2000
+䲟	yin	2000
+纺缍𫚕	fang duo shi	2000
+直线若鲹	zhi xian ruo shen	2000
+无齿鲹	wu chi shen	2000
+印度枪鱼	yin du qiang yu	2000
+平鳍旗鱼	ping qi qi yu	2000
+蓝枪鱼	lan qiang yu	2000
+大甲鲹	da jia shen	2000
+舟𫚕	zhou shi	2000
+乌鲹	wu shen	2000
+军曹鱼	jun cao yu	2000
+白短䲟	bai duan yin	2000
+短臂短䲟	duan bi duan yin	2000
+大盘短䲟	da pan duan yin	2000
+短䲟	duan yin	2000
+长颌似鲹	chang he si shen	2000
+革似鲹	ge si shen	2000
+牛目凹肩鲹	niu mu ao jian shen	2000
+脂眼凹肩鲹	zhi yan ao jian shen	2000
+金带细鲹	jin dai xi shen	2000
+高体𫚕	gao ti shi 	2000
+黄尾𫚕	huang wei shi	2000
+五条𫚕	wu tiao shi	2000
+长鳍𫚕	chang qi shi	2000
+黑纹小条𫚕	hei wen xiao tiao shi	2000
+小吻四鳍旗鱼	xiao wen si qi qi yu	2000
+斐氏鲳鲹	fei shi chang shen	2000
+布氏鲳鲹	bu shi chang shen	2000
+穆克鲳鲹	mu ke chang shen	2000
+日本竹䇲鱼	ri ben zhu jia yu	2000
+短丝羽鳃鲹	duan si yu sai shen	2000
+白口尾甲鲹	bai kou wei jia shen	2000
+剑鱼	jian yu	2000
+克氏副叶鲹	ke shi fu ye shen	2000
+橘点若鲹	ju dian ruo shen	2000
+大眼若鲹	da yan ruo shen	2000
+大口鲹	da kou shen	2000
+巴布亚鲹	ba bu ya shen	2000
+泰勒鲹	tai le shen	2000
+红尾圆鲹	hong wei yuan shen	2000
+颌圆鲹	he yuan shen	2000
+穆氏圆鲹	mu shi yuan shen	2000
+泰勃圆鲹	tai bo yuan shen	2000
+红肉枪鱼	hong rou qiang yu	2000
+黄带拟鲹	huang dai ni shen	2000
+澳洲短䲟	ao zhou duan yin	2000
+康氏似鲹	kang shi si shen	2000
+阿纳鲳鲹	a na chang shen	2000
+镰鳍鲳鲹	lian qi chang shen	2000
+卵形鲳鲹	luan xing chang shen	2000
+白舌尾甲鲹	bai she wei jia shen	2000
+驼背光尾鲨	tuo bei guang wei sha	2000
+霍氏光尾鲨	huo shi guang wei sha	2000
+中间光尾鲨	zhong jian guang wei sha	2000
+日本光尾鲨	ri ben guang wei sha	2000
+长头光尾鲨	chang tou guang wei sha	2000
+大吻光尾鲨	da wen guang wei sha	2000
+大口光尾鲨	da kou guang wei sha	2000
+粗体光尾鲨	cu ti guang wei sha	2000
+扁吻光尾鲨	bian wen guang wei sha	2000
+中华光尾鲨	zhong hua guang wei sha	2000
+白斑斑鲨	bai ban ban sha	2000
+无斑深海沟鲨	wu ban shen hai gou sha	2000
+白边鳍真鲨	bai bian qi zhen sha	2000
+大鼻真鲨	da bi zhen sha	2000
+钝吻真鲨	dun wen zhen sha	2000
+黑尾真鲨	hei wei zhen sha	2000
+婆罗真鲨	po luo zhen sha	2000
+短尾真鲨	duan wei zhen sha	2000
+镰状真鲨	lian zhuang zhen sha	2000
+半齿真鲨	ban chi zhen sha	2000
+黑边鳍真鲨	hei bian qi zhen sha	2000
+长鳍真鲨	chang qi zhen sha	2000
+麦氏真鲨	mai shi zhen sha	2000
+污翅真鲨	wu chi zhen sha	2000
+灰真鲨	hui zhen sha	2000
+铅灰真鲨	qian hui zhen sha	2000
+西氏真鲨	xi shi zhen sha	2000
+色拉真鲨	se la zhen sha	2000
+网纹绒毛鲨	wang wen rong mao sha	2000
+阴影绒毛鲨	yin ying rong mao sha	2000
+大口尖齿鲨	da kou jian chi sha	2000
+雷氏光唇鲨	lei shi guang chun sha	2000
+布氏真双髻鲨	bu shi zhen shuang ji sha	2000
+鼬鲨	you sha	2000
+翅鲨	chi sha	2000
+伊氏锯尾鲨	yi shi ju wei sha	2000
+日本锯尾鲨	ri ben ju wei sha	2000
+恒河露齿鲨	heng he lu chi sha	2000
+梅花鲨	mei hua sha	2000
+小口半沙条鲨	xiao kou ban sha tiao sha	2000
+钝吻鲨	dun wen sha	2000
+日本半皱唇鲨	ri ben ban zhou chun sha	2000
+广鼻弯齿鲨	guang bi wan chi sha	2000
+灰星鲨	hui xing sha	2000
+白斑星鲨	bai ban xing sha	2000
+尖齿柠檬鲨	jian chi ning meng sha	2000
+邓氏副沙条鲨	deng shi fu sha tiao sha	2000
+黑鳃盾尾鲨	hei sai dun wei sha	2000
+大青鲨	da qing sha	2000
+哈氏原鲨	ha shi yuan sha	2000
+维纳斯原鲨	wei na si yuan sha	2000
+小齿拟皱唇鲨	xiao chi ni zhou chun sha	2000
+尖吻斜锯牙鲨	jian wen xie ju ya sha	2000
+短鳍斜锯牙鲨	duan qi xie ju ya sha	2000
+宽尾斜齿鲨	kuan wei xie chi sha	2000
+大吻斜齿鲨	da wen xie chi sha	2000
+虎纹猫鲨	hu wen mao sha	2000
+路易氏双髻鲨	lu yi shi shuang ji sha	2000
+无沟双髻鲨	wu gou shuang ji sha	2000
+锤头双髻鲨	chui tou shuang ji sha	2000
+灰三齿鲨	hui san chi sha	2000
+皱唇鲨	zhou chun sha	2000
+直齿真鲨	zhi chi zhen sha	2000
+低鳍真鲨	di qi zhen sha	2000
+爪哇真鲨	zhao wa zhen sha	2000
+台湾绒毛鲨	tai wan rong mao sha	2000
+沙劳越头鲨	sha lao yue tou sha	2000
+沙氏锯尾鲨	sha shi ju wei sha	2000
+杂纹半皱唇鲨	za wen ban zhou chun sha	2000
+下盔鲨	xia kui sha	2000
+双斑钝䱵	shuang ban dun weng	2000
+单斑钝䱵	dan ban dun weng	2000
+斑金䱵	ban jin weng	2000
+金䱵	jin weng	2000
+鹰金䱵	ying jin weng	2000
+翼䱵	yi weng	2000
+多棘鲤䱵	duo ji li weng	2000
+斑鱾	ban ji	2000
+四角隼䱵	si jiao sun weng	2000
+鲻形汤鲤	zi xing tang li	2000
+长鳍鿸	chang qi duo 	2000
+低鳍鿸	di qi duo	2000
+细刺鱼	xi ci yu	2000
+条石鲷	tiao shi diao	2000
+斑石鲷	ban shi diao	2000
+副䱵	fu weng	2000
+清澜牙𬶟	qing lan ya la	2000
+四带牙𬶟	si dai ya la	2000
+尖突吻𬶟	jian tu wen la	2000
+细鳞𬶟	xi lin la	2000
+𬶟	la	2000
+尖头金䱵	jian tou jin weng	2000
+小鳞黑鱾	xiao lin hei ji	2000
+绿带鱾	lv dai ji	2000
+斑马鹰䱵	ban ma ying weng	2000
+花尾鹰䱵	hua wei ying weng	2000
+六带叉牙𬶟	liu dai cha ya la	2000
+大口汤鲤	da kou tang li	2000
+双峰鿸	shuang feng duo	2000
+尖吻䱵	jian wen weng	2000
+福氏副䱵	fu shi fu weng	2000
+黑线银鲛	hei xian yin jiao	2000
+扁吻银鲛	bian wen yin jiao	2000
+太平洋长吻银鲛	tai ping yang chang wen yin jiao	2000
+非洲长吻银鲛	fei zhou chang wen yin jiao	2000
+短颌钝腹鲱	duan he dun fu fei	2000
+平胸钝腹鲱	ping xiong dun fu fei	2000
+斑点钝腹鲱	ban dian dun fu fei	2000
+宝刀鱼	bao dao yu	2000
+长颌宝刀鱼	chang he bao dao yu	2000
+花𬶭	hua ji	2000
+太平洋鲱	tai ping yang fei	2000
+七丝鲚	qi si ji	2000
+凤鲚	feng ji	2000
+刀鲚	dao ji	2000
+尖吻圆腹鲱	jian wen yuan fu fei	2000
+黄带圆腹鲱	huang dai yuan fu fei	2000
+戴氏半棱鳀	dai shi ban leng ti	2000
+尖吻半棱鳀	jian wen ban leng ti	2000
+银灰半棱鳀	yin hui ban leng ti	2000
+日本鳀	ri ben ti	2000
+小鳞脂眼鲱	xiao lin zhi yan fei	2000
+大眼似青鳞鱼	da yan si qing lin yu	2000
+四点似青鳞鱼	si dian si qing lin yu	2000
+花点鲥	hua dian shi	2000
+鳓	le	2000
+大鳍鳓	da qi le	2000
+黑口鳓	hei kou le	2000
+斑𬶭	ban ji	2000
+环球海𬶭	huan qiu hai ji	2000
+日本海𬶭	ri ben hai ji	2000
+圆吻海𬶭	yuan wen hai ji	2000
+伐氏后鳍鱼	fa shi hou qi yu	2000
+海州拟黄鲫	hai zhou ni huang ji	2000
+白腹小沙丁鱼	bai fu xiao sha ding yu	2000
+隆背小沙丁鱼	long bei xiao sha ding yu	2000
+花莲小沙丁鱼	hua lian xiao sha ding yu	2000
+黄泽小沙丁鱼	huang ze xiao sha ding yu	2000
+黑尾小沙丁鱼	hei wei xiao sha ding yu	2000
+里氏小沙丁鱼	li shi xiao sha ding yu	2000
+锤氏小沙丁鱼	chui shi xiao sha ding yu	2000
+拟沙丁鱼	ni sha ding yu	2000
+太的黄鲫	tai de huang ji	2000
+黄鲫	huang ji	2000
+锈眼小体鲱	xiu yan xiao ti fei	2000
+银带小体鲱	yin dai xiao ti fei	2000
+中华侧带小公鱼	zhong hua ce dai xiao gong yu	2000
+康氏侧带小公鱼	kang shi ce dai xiao gong yu	2000
+印度侧带小公鱼	yin du ce dai xiao gong yu	2000
+岛屿侧带小公鱼	dao yu ce dai xiao gong yu	2000
+山东侧带小公鱼	shan dong ce dai xiao gong yu	2000
+鲥	shi	2000
+汕头棱鳀	shan tou leng ti	2000
+芝罘棱鳀	zhi fu leng ti	2000
+杜氏棱鳀	du shi leng ti	2000
+汉氏棱鳀	han shi leng ti	2000
+赤鼻棱鳀	chi bi leng ti	2000
+中颌棱鳀	zhong he leng ti	2000
+长颌棱鳀	chang he leng ti	2000
+寡鳃半棱鳀	gua sai ban leng ti	2000
+庇隆多齿鳓	bi long duo chi le	2000
+裘氏小沙丁鱼	qiu shi xiao sha ding yu	2000
+巴甘侧带小公鱼	ba gan ce dai xiao gong yu	2000
+韦氏侧带小公鱼	wei shi ce dai xiao gong yu	2000
+托氏鲥	tuo shi shi	2000
+黄吻棱鳀	huang wen leng ti	2000
+后鳍鱼	hou qi yu	2000
+金色小沙丁鱼	jin se xiao sha ding yu	2000
+高体小沙丁鱼	gao ti xiao sha ding yu	2000
+东方豹鲂𫚒	dong fang bao fang fu	2000
+单棘豹鲂𫚒	dan ji bao fang fu	2000
+宽海蛾鱼	kuan hai e yu	2000
+海蛾鱼	hai e yu	2000
+飞海蛾鱼	fei hai e yu	2000
+吉氏豹鲂𫚒	ji shi bao fang fu	2000
+笠鳞棘鲨	li lin ji sha	2000
+大眼海鲢	da yan hai lian	2000
+大海鲢	da hai lian	2000
+夏威夷海鲢	xia wei yi hai lian	2000
+印度棘赤刀鱼	yin du ji chi dao yu	2000
+克氏棘赤刀鱼	ke shi ji chi dao yu	2000
+背点棘赤刀鱼	bei dian ji chi dao yu	2000
+黄鳍棘鲷	huang qi ji diao	2000
+太平洋棘鲷	tai ping yang ji diao	2000
+黑棘鲷	hei ji diao	2000
+荧斑阿南鱼	ying ban a nan yu	2000
+乌尾阿南鱼	wu wei a nan yu	2000
+黄尾阿南鱼	huang wei a nan yu	2000
+星阿南鱼	xing a nan yu	2000
+叉尾鲷	cha wei diao	2000
+红叉尾鲷	hong cha wei diao	2000
+蓝短鳍笛鲷	lan duan qi di diao	2000
+四长棘鲷	si chang ji diao	2000
+厦门白姑鱼	xia men bai gu yu	2000
+日本白姑鱼	ri ben bai gu yu	2000
+黑姑鱼	hei gu yu	2000
+黄唇鱼	huang chun yu	2000
+腋斑普提鱼	ye ban pu ti yu	2000
+双带普提鱼	shuang dai pu ti yu	2000
+斜带普提鱼	xie dai pu ti yu	2000
+中胸普提鱼	zhong xiong pu ti yu	2000
+尖头普提鱼	jian tou pu ti yu	2000
+驼峰大鹦嘴鱼	tuo feng da ying zui yu	2000
+白方头鱼	bai fang tou yu	2000
+银方头鱼	yin fang tou yu	2000
+日本方头鱼	ri ben fang tou yu	2000
+褐梅鲷	he mei diao	2000
+黄尾梅鲷	huang wei mei diao	2000
+新月梅鲷	xin yue mei diao	2000
+黄蓝背梅鲷	huang lan bei mei diao	2000
+黄背梅鲷	huang bei mei diao	2000
+日本丽花鮨	ri ben li hua yi	2000
+日本绚鹦嘴鱼	ri ben xuan ying zui yu	2000
+凹尾绚鹦嘴鱼	ao wei xuan ying zui yu	2000
+史氏赤刀鱼	shi shi chi dao yu	2000
+绿尾唇鱼	lv wei chun yu	2000
+横带唇鱼	heng dai chun yu	2000
+尖头唇鱼	jian tou chun yu	2000
+三叶唇鱼	san ye chun yu	2000
+波纹唇鱼	bo wen chun yu	2000
+管唇鱼	guan chun yu	2000
+白氏绿鹦嘴鱼	bai shi lv ying zui yu	2000
+日本绿鹦嘴鱼	ri ben lv ying zui yu	2000
+蓝猪齿鱼	lan zhu chi yu	2000
+大斑猪齿鱼	da ban zhu chi yu	2000
+邵氏猪齿鱼	shao shi zhu chi yu	2000
+尖头黄鳍牙䱛	jian tou huang qi ya huo	2000
+深棕丝隆头鱼	shen zong si long tou yu	2000
+蓝身丝隆头鱼	lan shen si long tou yu	2000
+艳丽丝隆头鱼	yan li si long tou yu	2000
+黑缘丝隆头鱼	hei yuan si long tou yu	2000
+绿丝隆头鱼	lv si long tou yu	2000
+棘头梅童鱼	ji tou mei tong yu	2000
+黑鳃梅童鱼	hei sai mei tong yu	2000
+鳃斑盔鱼	sai ban kui yu	2000
+背斑盔鱼	bei ban kui yu	2000
+露珠盔鱼	lu zhu kui yu	2000
+勒氏枝鳔石首鱼	le shi zhi biao shi shou yu	2000
+黄背牙鲷	huang bei ya diao	2000
+密点少棘胡椒鲷	mi dian shao ji hu jiao diao	2000
+双鳍梅鲷	shuang qi mei diao	2000
+史氏谐鱼	shi shi xie yu	2000
+伸口鱼	shen kou yu	2000
+红钻鱼	hong zuan yu	2000
+丝尾红钻鱼	si wei hong zuan yu	2000
+多耙红钻鱼	duo pa hong zuan yu	2000
+二长棘犁齿鲷	er chang ji li chi diao	2000
+黄锄齿鲷	huang chu chi diao	2000
+红尾银鲈	hong wei yin lu	2000
+长棘银鲈	chang ji yin lu	2000
+日本银鲈	ri ben yin lu	2000
+缘边银鲈	yuan bian yin lu	2000
+长吻银鲈	chang wen yin lu	2000
+长圆银鲈	chang yuan yin lu	2000
+奥奈银鲈	ao nai yin lu	2000
+七带银鲈	qi dai yin lu	2000
+金带齿颌鲷	jin dai chi he diao	2000
+杂色尖嘴鱼	za se jian zui yu	2000
+长裸顶鲷	chang luo ding diao	2000
+真裸顶鲷	zhen luo ding diao	2000
+黄吻裸顶鲷	huang wen luo ding diao	2000
+蓝线裸顶鲷	lan xian luo ding diao	2000
+灰裸顶鲷	hui luo ding diao	2000
+小齿裸顶鲷	xiao chi luo ding diao	2000
+双眼斑海猪鱼	shuang yan ban hai zhu yu	2000
+金色海猪鱼	jin se hai zhu yu	2000
+哈氏海猪鱼	ha shi hai zhu yu	2000
+格纹海猪鱼	ge wen hai zhu yu	2000
+斑点海猪鱼	ban dian hai zhu yu	2000
+缘鳍海猪鱼	yuan qi hai zhu yu	2000
+胸斑海猪鱼	xiong ban hai zhu yu	2000
+黑尾海猪鱼	hei wei hai zhu yu	2000
+臀点海猪鱼	tun dian hai zhu yu	2000
+星云海猪鱼	xing yun hai zhu yu	2000
+云斑海猪鱼	yun ban hai zhu yu	2000
+细棘海猪鱼	xi ji hai zhu yu	2000
+三斑海猪鱼	san ban hai zhu yu	2000
+大鳞海猪鱼	da lin hai zhu yu	2000
+横带厚唇鱼	heng dai hou chun yu	2000
+黑鳍厚唇鱼	hei qi hou chun yu	2000
+灰鳍异大眼鲷	hui qi yi da yan diao	2000
+长头马鹦嘴鱼	chang tou ma ying zui yu	2000
+环纹细鳞盔鱼	huan wen xi lin kui yu	2000
+狭带细鳞盔鱼	xia dai xi lin kui yu	2000
+短项鳍鱼	duan xiang qi yu	2000
+洛神项鳍鱼	luo shen xiang qi yu	2000
+背点项鳍鱼	bei dian xiang qi yu	2000
+黑斑项鳍鱼	hei ban xiang qi yu	2000
+孔雀项鳍鱼	kong que xiang qi yu	2000
+团头叫姑鱼	tuan tou jiao gu yu	2000
+皮氏叫姑鱼	pi shi jiao gu yu	2000
+婆罗叫姑鱼	po luo jiao gu yu	2000
+卡氏叫姑鱼	ka shi jiao gu yu	2000
+鳞鳍叫姑鱼	lin qi jiao gu yu	2000
+条纹叫姑鱼	tiao wen jiao gu yu	2000
+叫姑鱼	jiao gu yu	2000
+台湾叫姑鱼	tai wan jiao gu yu	2000
+屈氏叫姑鱼	qu shi jiao gu yu	2000
+单线突唇鱼	dan xian tu chun yu	2000
+双色裂唇鱼	shuang se lie chun yu	2000
+裂唇鱼	lie chun yu	2000
+曼氏褶唇鱼	man shi zhe chun yu	2000
+大黄鱼	da huang yu	2000
+小黄鱼	xiao huang yu	2000
+纤鹦嘴鱼	xian ying zui yu	2000
+红鳍裸颊鲷	hong qi luo jia diao	2000
+扁裸颊鲷	bian luo jia diao	2000
+星斑裸颊鲷	xing ban luo jia diao	2000
+短吻裸颊鲷	duan wen luo jia diao	2000
+红裸颊鲷	hong luo jia diao	2000
+杂色裸颊鲷	za se luo jia diao	2000
+黄唇裸颊鲷	huang chun luo jia diao	2000
+叶唇笛鲷	ye chun di diao	2000
+紫红笛鲷	zi hong di diao	2000
+孟加拉湾笛鲷	meng jia la wan di diao	2000
+白斑笛鲷	bai ban di diao	2000
+蓝带笛鲷	lan dai di diao	2000
+胸斑笛鲷	xiong ban di diao	2000
+埃氏笛鲷	ai shi di diao	2000
+红鳍笛鲷	hong qi di diao	2000
+金焰笛鲷	jin yan di diao	2000
+焦黄笛鲷	jiao huang di diao	2000
+隆背笛鲷	long bei di diao	2000
+约氏笛鲷	yue shi di diao	2000
+四线笛鲷	si xian di diao	2000
+褶尾笛鲷	zhe wei di diao	2000
+正笛鲷	zheng di diao	2000
+马拉巴笛鲷	ma la ba di diao	2000
+单斑笛鲷	dan ban di diao	2000
+奥氏笛鲷	ao shi di diao	2000
+五线笛鲷	wu xian di diao	2000
+蓝点笛鲷	lan dian di diao	2000
+勒氏笛鲷	le shi di diao	2000
+千年笛鲷	qian nian di diao	2000
+星点笛鲷	xing dian di diao	2000
+纵带笛鲷	zong dai di diao	2000
+前鳞笛鲷	qian lin di diao	2000
+黑背羽鳃笛鲷	hei bei yu sai di diao	2000
+珠斑大咽齿鱼	zhu ban da yan chi yu	2000
+短吻弱棘鱼	duan wen ruo ji yu	2000
+侧条弱棘鱼	ce tiao ruo ji yu	2000
+褐毛鲿	he mao chang	2000
+𩾃	mian	2000
+银大眼鲳	yin da yan chang	2000
+单列齿鲷	dan lie chi diao	2000
+赤黄金线鱼	chi huang jin xian yu	2000
+深水金线鱼	shen shui jin xian yu	2000
+横斑金线鱼	heng ban jin xian yu	2000
+六齿金线鱼	liu chi jin xian yu	2000
+日本金线鱼	ri ben jin xian yu	2000
+缘金线鱼	yuan jin xian yu	2000
+长丝金线鱼	chang si jin xian yu	2000
+红棘金线鱼	hong ji jin xian yu	2000
+裴氏金线鱼	pei shi jin xian yu	2000
+黄缘金线鱼	huang yuan jin xian yu	2000
+金线鱼	jin xian yu	2000
+长体金线鱼	chang ti jin xian yu	2000
+黄姑鱼	huang gu yu	2000
+元鼎黄姑鱼	yuan ding huang gu yu	2000
+浅色黄姑鱼	qian se huang gu yu	2000
+半斑黄姑鱼	ban ban huang gu yu	2000
+带尾美鳍鱼	dai wei mei qi yu	2000
+红牙䱛	hong ya huo	2000
+长吻拟牙䱛	chang wen ni ya huo	2000
+土佐欧氏䲢	tu zuo ou shi teng	2000
+双斑尖唇鱼	shuang ban jian chun yu	2000
+西里伯斯唇鱼	xi li bo si chun yu	2000
+双线尖唇鱼	shuang xian jian chun yu	2000
+东方尖唇鱼	dong fang jian chun yu	2000
+金赤鲷	jin chi diao	2000
+真赤鲷	zhen chi diao	2000
+冲绳若梅鲷	chong sheng ruo mei diao	2000
+黄背若梅鲷	huang bei ruo mei diao	2000
+花鳍副海猪鱼	hua qi fu hai zhu yu	2000
+三线几鲈	san xian ji lu	2000
+横带副眶棘鲈	heng dai fu kuang ji lu	2000
+土佐副眶棘鲈	tu zuo fu kuang ji lu	2000
+大眼白姑鱼	da yan bai gu yu	2000
+银姑鱼	yin gu yu	2000
+大头银姑鱼	da tou yin gu yu	2000
+斑鳍银姑鱼	ban qi yin gu yu	2000
+犬牙锥齿鲷	quan ya zhui chi diao	2000
+长崎锥齿鲷	chang qi zhui chi diao	2000
+线尾锥齿鲷	xian wei zhui chi diao	2000
+五棘银鲈	wu ji yin lu	2000
+斜鳞笛鲷	xie lin di diao	2000
+斑胡椒鲷	ban hu jiao diao	2000
+花尾胡椒鲷	hua wei hu jiao diao	2000
+双带胡椒鲷	shuang dai hu jiao diao	2000
+黄点胡椒鲷	huang dian hu jiao diao	2000
+驼背胡椒鲷	tuo bei hu jiao diao	2000
+条纹胡椒鲷	tiao wen hu jiao diao	2000
+胡椒鲷	hu jiao diao	2000
+暗点胡椒鲷	an dian hu jiao diao	2000
+邵氏胡椒鲷	shao shi hu jiao diao	2000
+条斑胡椒鲷	tiao ban hu jiao diao	2000
+银石鲈	yin shi lu	2000
+金石鲈	jin shi lu	2000
+大斑石鲈	da ban shi lu	2000
+单斑石鲈	dan ban shi lu	2000
+金目大眼鲷	jin mu da yan diao	2000
+短尾大眼鲷	duan wei da yan diao	2000
+长尾大眼鲷	chang wei da yan diao	2000
+日本锯大眼鲷	ri ben ju da yan diao	2000
+蓝纹紫鱼	lan wen zi yu	2000
+日本紫鱼	ri ben zi yu	2000
+丝鳍紫鱼	si qi zi yu	2000
+黄鳍紫鱼	huang qi zi yu	2000
+多牙紫鱼	duo ya zi yu	2000
+西氏紫鱼	xi shi zi yu	2000
+尖齿紫鱼	jian chi zi yu	2000
+双棘原黄姑鱼	shuang ji yuan huang gu yu	2000
+姬拟唇鱼	ji ni chun yu	2000
+六带拟唇鱼	liu dai ni chun yu	2000
+山下氏拟盔鱼	shan xia shi ni kui yu	2000
+红项拟隆头鱼	hong xiang ni long tou yu	2000
+日本拟隆头鱼	ri ben ni long tou yu	2000
+红海高体盔鱼	hong hai gao ti kui yu	2000
+金带鳞鳍梅鲷	jin dai lin qi mei diao	2000
+双带鳞鳍梅鲷	shuang dai lin qi mei diao	2000
+马氏鳞鳍梅鲷	ma shi lin qi mei diao	2000
+斑尾鳞鳍梅鲷	ban wei lin qi mei diao	2000
+黑带鳞鳍梅鲷	hei dai lin qi mei diao	2000
+三带鳞鳍梅鲷	san dai lin qi mei diao	2000
+平鲷	ping diao	2000
+中华鹦嘴鱼	zhong hua ying zui yu	2000
+弧带鹦嘴鱼	hu dai ying zui yu	2000
+锈色鹦嘴鱼	xiu se ying zui yu	2000
+杂色鹦嘴鱼	za se ying zui yu	2000
+绿唇鹦嘴鱼	lv chun ying zui yu	2000
+网纹鹦嘴鱼	wang wen ying zui yu	2000
+青点鹦嘴鱼	qing dian ying zui yu	2000
+黑斑鹦嘴鱼	hei ban ying zui yu	2000
+细鹦嘴鱼	xi ying zui yu	2000
+黑鹦嘴鱼	hei ying zui yu	2000
+黄鞍鹦嘴鱼	huang an ying zui yu	2000
+突额鹦嘴鱼	tu e ying zui yu	2000
+绿颌鹦嘴鱼	lv he ying zui yu	2000
+棕吻鹦嘴鱼	zong wen ying zui yu	2000
+截尾鹦嘴鱼	jie wei ying zui yu	2000
+钝头鹦嘴鱼	dun tou ying zui yu	2000
+横带鹦嘴鱼	heng dai ying zui yu	2000
+许氏鹦嘴鱼	xu shi ying zui yu	2000
+乌面眶棘鲈	wu mian kuang ji lu	2000
+双带眶棘鲈	shuang dai kuang ji lu	2000
+齿颌眶棘鲈	chi he kuang ji lu	2000
+线纹眶棘鲈	xian wen kuang ji lu	2000
+珠斑眶棘鲈	zhu ban kuang ji lu	2000
+单带眶棘鲈	dan dai kuang ji lu	2000
+条纹眶棘鲈	tiao wen kuang ji lu	2000
+三带眶棘鲈	san dai kuang ji lu	2000
+伏氏眶棘鲈	fu shi kuang ji lu	2000
+杂色𬶮	za se xi	2000
+亚洲𬶮	ya zhou xi	2000
+北部湾𬶮	bei bu wan xi	2000
+少鳞𬶮	shao lin xi	2000
+大头𬶮	da tou xi	2000
+多鳞𬶮	duo lin xi	2000
+华𬶮	hua xi	2000
+圈紫胸鱼	quan zi xiong yu	2000
+黑星紫胸鱼	hei xing zi xiong yu	2000
+虹纹紫胸鱼	hong wen zi xiong yu	2000
+断纹紫胸鱼	duan wen zi xiong yu	2000
+细长苏彝士隆头鱼	xi chang su yi shi long tou yu	2000
+帆鳍笛鲷	fan qi di diao	2000
+丝条长鳍笛鲷	si tiao chang qi di diao	2000
+钝头锦鱼	dun tou jin yu	2000
+环带锦鱼	huan dai jin yu	2000
+鞍斑锦鱼	an ban jin yu	2000
+詹氏锦鱼	zhan shi jin yu	2000
+新月锦鱼	xin yue jin yu	2000
+胸斑锦鱼	xiong ban jin yu	2000
+紫锦鱼	zi jin yu	2000
+纵纹锦鱼	zong wen jin yu	2000
+三叶锦鱼	san ye jin yu	2000
+莫桑比克脊颌鲷	mo sang bi ke ji he diao	2000
+琉球棘鲷	liu qiu ji diao	2000
+台湾棘鲷	tai wan ji diao	2000
+蠕纹阿南鱼	ru wen a nan yu	2000
+新几内亚阿南鱼	xin ji nei ya a nan yu	2000
+似花普提鱼	si hua pu ti yu	2000
+双斑普提鱼	shuang ban pu ti yu	2000
+圆身普提鱼	yuan shen pu ti yu	2000
+网纹普提鱼	wang wen pu ti yu	2000
+伊津普提鱼	yi jin pu ti yu	2000
+点带普提鱼	dian dai pu ti yu	2000
+益田普提鱼	yi tian pu ti yu	2000
+大黄斑普提鱼	da huang ban pu ti yu	2000
+白斑普提鱼	bai ban pu ti yu	2000
+红赭普提鱼	hong zhe pu ti yu	2000
+丝鳍普提鱼	si qi pu ti yu	2000
+三线普提鱼	san xian pu ti yu	2000
+斑鳍方头鱼	ban qi fang tou yu	2000
+星眼绚鹦嘴鱼	xing yan xuan ying zui yu	2000
+紫头鲸鹦嘴鱼	zi tou jing ying zui yu	2000
+鲍氏绿鹦嘴鱼	bao shi lv ying zui yu	2000
+高额绿鹦嘴鱼	gao e lv ying zui yu	2000
+小鼻绿鹦嘴鱼	xiao bi lv ying zui yu	2000
+瘤绿鹦嘴鱼	liu lv ying zui yu	2000
+鞍斑猪齿鱼	an ban zhu chi yu	2000
+七带猪齿鱼	qi dai zhu chi yu	2000
+紫纹猪齿鱼	zi wen zhu chi yu	2000
+乔氏猪齿鱼	qiao shi zhu chi yu	2000
+菲律宾猪齿鱼	fei lv bin zhu chi yu	2000
+粗猪齿鱼	cu zhu chi yu	2000
+扎汶猪齿鱼	zha wen zhu chi yu	2000
+新月丝隆头鱼	xin yue si long tou yu	2000
+红缘丝隆头鱼	hong yuan si long tou yu	2000
+琉球丝隆头鱼	liu qiu si long tou yu	2000
+丁氏丝隆头鱼	ding shi si long tou yu	2000
+日本牛目鲷	ri ben niu mu diao	2000
+巴都盔鱼	ba dou kui yu	2000
+黑带盔鱼	hei dai kui yu	2000
+环状钝头鱼	huan zhuang dun tou yu	2000
+太平洋裸齿隆头鱼	tai ping yang luo chi long tou yu	2000
+阿部氏牙鲷	a bu shi ya diao	2000
+火花红谐鱼	huo hua hong xie yu	2000
+单长棘犁齿鲷	dan chang ji li chi diao	2000
+培根银鲈	pei gen yin lu	2000
+志摩银鲈	zhi mo yin lu	2000
+珠光海猪鱼	zhu guang hai zhu yu	2000
+克氏海猪鱼	ke shi hai zhu yu	2000
+亮海猪鱼	liang hai zhu yu	2000
+东方海猪鱼	dong fang hai zhu yu	2000
+饰妆海猪鱼	shi zhuang hai zhu yu	2000
+派氏海猪鱼	pai shi hai zhu yu	2000
+黑额海猪鱼	hei e hai zhu yu	2000
+侧带海猪鱼	ce dai hai zhu yu	2000
+玫瑰细鳞盔鱼	mei gui xi lin kui yu	2000
+鲍氏项鳍鱼	bao shi xiang qi yu	2000
+双斑项鳍鱼	shuang ban xiang qi yu	2000
+西里伯斯项鳍鱼	xi li bo si xiang qi yu	2000
+五指项鳍鱼	wu zhi xiang qi yu	2000
+三带项鳍鱼	san dai xiang qi yu	2000
+彩虹项鳍鱼	cai hong xiang qi yu	2000
+蔷薇项鳍鱼	qiang wei xiang qi yu	2000
+大吻叫姑鱼	da wen jiao gu yu	2000
+阿曼蓝胸鱼	a man lan xiong yu	2000
+项斑蓝胸鱼	xiang ban lan xiong yu	2000
+尾斑蓝胸鱼	wei ban lan xiong yu	2000
+阿氏裸颊鲷	a shi luo jia diao	2000
+红棘裸颊鲷	hong ji luo jia diao	2000
+赤鳍裸颊鲷	chi qi luo jia diao	2000
+长棘裸颊鲷	chang ji luo jia diao	2000
+黑点裸颊鲷	hei dian luo jia diao	2000
+小齿裸颊鲷	xiao chi luo jia diao	2000
+尖吻裸颊鲷	jian wen luo jia diao	2000
+网纹裸颊鲷	wang wen luo jia diao	2000
+半带裸颊鲷	ban dai luo jia diao	2000
+斜带笛鲷	xie dai di diao	2000
+似十二棘笛鲷	si shi er ji di diao	2000
+显赫笛鲷	xian he di diao	2000
+红纹笛鲷	hong wen di diao	2000
+斑点羽鳃笛鲷	ban dian yu sai di diao	2000
+莫氏大咽齿鱼	mo shi da yan chi yu	2000
+胸斑大咽齿鱼	xiong ban da yan chi yu	2000
+蓝颊金线鱼	lan jia jin xian yu	2000
+箕作氏黄姑鱼	ji zuo shi huang gu yu	2000
+大鳞似美鳍鱼	da lin si mei qi yu	2000
+粒牙欧氏䲢	li ya ou shi teng	2000
+单带尖唇鱼	dan dai jian chun yu	2000
+青若梅鲷	qing ruo mei diao	2000
+条纹若梅鲷	tiao wen ruo mei diao	2000
+横带若梅鲷	heng dai ruo mei diao	2000
+卡氏副唇鱼	ka shi fu chun yu	2000
+月尾副唇鱼	yue wei fu chun yu	2000
+线斑副唇鱼	xian ban fu chun yu	2000
+赤玉副眶棘鲈	chi yu fu kuang ji lu	2000
+宽带副眶棘鲈	kuan dai fu kuang ji lu	2000
+黄带锥齿鲷	huang dai zhui chi diao	2000
+李维氏斜鳞笛鲷	li wei shi xie lin di diao	2000
+白带胡椒鲷	bai dai hu jiao diao	2000
+黄纹胡椒鲷	huang wen hu jiao diao	2000
+雷氏胡椒鲷	lei shi hu jiao diao	2000
+多纹胡椒鲷	duo wen hu jiao diao	2000
+点石鲈	dian shi lu	2000
+四带石鲈	si dai shi lu	2000
+布氏大眼鲷	bu shi da yan diao	2000
+麦氏锯大眼鲷	mai shi ju da yan diao	2000
+黑缘大鳞大眼鲷	hei yuan da lin da yan diao	2000
+斜带紫鱼	xie dai zi yu	2000
+八带拟唇鱼	ba dai ni chun yu	2000
+异鳍拟盔鱼	yi qi ni kui yu	2000
+眼斑拟盔鱼	yan ban ni kui yu	2000
+摩鹿加拟凿牙鱼	mo lu jia ni zao ya yu	2000
+拟海猪鱼	ni hai zhu yu	2000
+长鳍高体盔鱼	chang qi gao ti kui yu	2000
+隐秘高体盔鱼	yin mi gao ti kui yu	2000
+九棘高体盔鱼	jiu ji gao ti kui yu	2000
+蓝臀鹦嘴鱼	lan tun ying zui yu	2000
+灰尾鹦嘴鱼	hui wei ying zui yu	2000
+高鳍鹦嘴鱼	gao qi ying zui yu	2000
+刺鹦嘴鱼	ci ying zui yu	2000
+黄肋鹦嘴鱼	huang lei ying zui yu	2000
+黄带眶棘鲈	huang dai kuang ji lu	2000
+蓝带眶棘鲈	lan dai kuang ji lu	2000
+砂大指𬶮	sha da zhi xi	2000
+海湾𬶮	hai wan xi	2000
+小眼𬶮	xiao yan xi	2000
+细鳞𬶮	xi lin xi	2000
+三线紫胸鱼	san xian zi xiong yu	2000
+头斑苏彝士隆头鱼	tou ban su yi shi long tou yu	2000
+白条湿鹦鲷	bai tiao shi ying diao	2000
+黑鳍湿鹦鲷	hei qi shi ying diao	2000
+剑唇鱼	jian chun yu	2000
+大棘银鲈	da ji yin lu	2000
+双色海猪鱼	shuang se hai zhu yu	2000
+杜氏叫姑鱼	du shi jiao gu yu	2000
+韦氏叫姑鱼	wei shi jiao gu yu	2000
+桔带裸颊鲷	ju dai luo jia diao	2000
+红笛鲷	hong di diao	2000
+黑缘黄姑鱼	hei yuan huang gu yu	2000
+双斑眶棘鲈	shuang ban kuang ji lu	2000
+金黄突额隆头鱼	jin huang tu e long tou yu	2000
+断带紫胸鱼	duan dai zi xiong yu	2000
+孔头底尾鳕	kong tou di wei xue	2000
+加氏底尾鳕	jia shi di wei xue	2000
+日本犀鳕	ri ben xi xue	2000
+张氏五须岩鳕	zhang shi wu xu yan xue	2000
+鸭嘴腔吻鳕	ya zui qiang wen xue	2000
+拟星腔吻鳕	ni xing qiang wen xue	2000
+台湾腔吻鳕	tai wan qiang wen xue	2000
+日本腔吻鳕	ri ben qiang wen xue	2000
+乔丹氏腔吻鳕	qiao dan shi qiang wen xue	2000
+蒲原氏腔吻鳕	pu yuan shi qiang wen xue	2000
+长管腔吻鳕	chang guan qiang wen xue	2000
+平棘腔吻鳕	ping ji qiang wen xue	2000
+史氏腔吻鳕	shi shi qiang wen xue	2000
+暗边突吻鳕	an bian tu wen xue	2000
+锥鼻突吻鳕	zhui bi tu wen xue	2000
+乔丹氏短稚鳕	qiao dan shi duan zhi xue	2000
+柯氏鼠鳕	ke shi shu xue	2000
+大头鳕	da tou xue	2000
+刺吻膜首鳕	ci wen mo shou xue	2000
+纹喉膜头鳕	wen hou mo tou xue	2000
+褐浔鳕	he xun xue	2000
+滑软首鳕	hua ruan shou xue	2000
+原始奈氏鳕	yuan shi nai shi xue	2000
+日本小褐鳕	ri ben xiao he xue	2000
+黑沼氏箭鳕	hei zhao shi jian xue	2000
+卵首鳕	luan shou xue	2000
+粗尾鳕	cu wei xue	2000
+加曼氏凹腹鳕	jia man shi ao fu xue	2000
+黑背鳍凹腹鳕	hei bei qi ao fu xue	2000
+扇鳍凹腹鳕	shan qi ao fu xue	2000
+日本底尾鳕	ri ben di wei xue	2000
+拟鳀犀鳕	ni ti xi xue	2000
+尖鳍犀鳕	jian qi xi xue	2000
+银腰犀鳕	yin yao xi xue	2000
+澎湖犀鳕	peng hu xi xue	2000
+短吻腔吻鳕	duan wen qiang wen xue	2000
+带斑腔吻鳕	dai ban qiang wen xue	2000
+黑喉腔吻鳕	hei hou qiang wen xue	2000
+吉氏腔吻鳕	ji shi qiang wen xue	2000
+哈氏腔吻鳕	ha shi qiang wen xue	2000
+岸上氏腔吻鳕	an shang shi qiang wen xue	2000
+窄吻腔吻鳕	zhai wen qiang wen xue	2000
+松原腔吻鳕	song yuan qiang wen xue	2000
+多棘腔吻鳕	duo ji qiang wen xue	2000
+东海腔吻鳕	dong hai qiang wen xue	2000
+沈氏腔吻鳕	shen shi qiang wen xue	2000
+东京腔吻鳕	dong jing qiang wen xue	2000
+细眼突吻鳕	xi yan tu wen xue	2000
+长头膜首鳕	chang tou mo shou xue	2000
+菲律宾膜首鳕	fei lv bin mo shou xue	2000
+细身膜鳕	xi shen mo xue	2000
+日本舟尾鳕	ri ben zhou wei xue	2000
+达氏库隆长尾鳕	da shi ku long chang wei xue	2000
+魔灯梭鳕	mo deng suo xue	2000
+黑缘梭鳕	hei yuan suo xue	2000
+狮鼻奈氏鳕	shi bi nai shi xue	2000
+红须小褐鳕	hong xu xiao he xue	2000
+拟栉尾鳕	ni zhi wei xue	2000
+箭齿凹腹鳕	jian chi ao fu xue	2000
+歧异凹腹鳕	qi yi ao fu xue	2000
+长须凹腹鳕	chang xu ao fu xue	2000
+大鳍凹腹鳕	da qi ao fu xue	2000
+西海凹腹鳕	xi hai ao fu xue	2000
+无须膜首鳕	wu xu mo shou xue	2000
+黑纹锥齿喉盘鱼	hei wen zhui chi hou pan yu	2000
+日本小姥鱼	ri ben xiao lao yu	2000
+台湾鹤姥鱼	tai wan he lao yu	2000
+线纹环盘鱼	xian wen huan pan yu	2000
+琉球盘孔喉盘鱼	liu qiu pan kong hou pan yu	2000
+印度细喉盘鱼	yin du xi hou pan yu	2000
+长体刺虾虎鱼	chang ti ci xia hu yu	2000
+黄鳍刺鰕虎	huang qi ci xia hu	2000
+矛尾刺鰕虎	mao wei ci xia hu	2000
+乳色刺鰕虎	ru se ci xia hu	2000
+棕刺鰕虎	zong ci xia hu	2000
+斑尾刺虾虎鱼	ban wei ci xia hu yu	2000
+犬牙细棘鰕虎	quan ya xi ji xia hu	2000
+青斑细棘鰕虎	qing ban xi ji xia hu	2000
+六丝钝尾鰕虎	liu si dun wei xia hu	2000
+白条钝鰕虎	bai tiao dun xia hu	2000
+短唇钝鰕虎	duan chun dun xia hu	2000
+尾斑钝鰕虎	wei ban dun xia hu	2000
+窄头钝孔鰕虎	zhai tou dun kong xia hu	2000
+马都拉叉牙鰕虎	ma dou la cha ya xia hu	2000
+半斑星塘鳢	ban ban xing tang li	2000
+眼斑阿胡鰕虎	yan ban a hu xia hu	2000
+椰子深鰕虎	ye zi shen xia hu	2000
+褐深鰕虎	he shen xia hu	2000
+薄氏大弹涂鱼	bo shi da dan tu yu	2000
+大弹涂鱼	da dan tu yu	2000
+中华乌塘鳢	zhong hua wu tang li	2000
+脊塘鳢	ji tang li	2000
+锯脊塘鳢	ju ji tang li	2000
+美鰕虎	mei xia hu	2000
+大口裸头鰕虎	da kou luo tou xia hu	2000
+詹氏矛尾鰕虎	zhan shi mao wei xia hu	2000
+矛尾鰕虎	mao wei xia hu	2000
+白色项冠鰕虎	bai se xiang guan xia hu	2000
+斜带栉眼鰕虎	xie dai zhi yan xia hu	2000
+褐斑栉眼鰕虎	he ban zhi yan xia hu	2000
+丝棘栉眼鰕虎	si ji zhi yan xia hu	2000
+点斑栉眼鰕虎	dian ban zhi yan xia hu	2000
+长棘栉眼鰕虎	chang ji zhi yan xia hu	2000
+舟山栉鰕虎	zhou shan zhi xia hu	2000
+中华栉孔鰕虎	zhong hua zhi kong xia hu	2000
+圆头捷鰕虎	yuan tou jie xia hu	2000
+刺盖塘鳢	ci gai tang li	2000
+巴厘岛塘鳢	ba li dao tang li	2000
+褐塘鳢	he tang li	2000
+黑体塘鳢	hei ti tang li	2000
+尖头塘鳢	jian tou tang li	2000
+带鰕虎	dai xia hu	2000
+胸斑几塘鳢	xiong ban ji tang li	2000
+纵带鹦鰕虎	zong dai ying xia hu	2000
+裸项蜂巢鰕虎	luo xiang feng chao xia hu	2000
+短刺盖棘鰕虎	duan ci gai ji xia hu	2000
+舌鰕虎	she xia hu	2000
+斑纹舌鰕虎	ban wen she xia hu	2000
+高伦颌鳞鰕虎	gao lun he lin xia hu	2000
+红点叶鰕虎	hong dian ye xia hu	2000
+多线叶鰕虎	duo xian ye xia hu	2000
+眼带叶鰕虎	yan dai ye xia hu	2000
+黄体叶鰕虎	huang ti ye xia hu	2000
+五带叶鰕虎	wu dai ye xia hu	2000
+沟叶鰕虎	gou ye xia hu	2000
+大鳞鳍鰕虎	da lin qi xia hu	2000
+七棘裸身鰕虎	qi ji luo shen xia hu	2000
+网纹裸身鰕虎	wang wen luo shen xia hu	2000
+斜纹半鰕虎	xie wen ban xia hu	2000
+康培氏衔鰕虎	kang pei shi xian xia hu	2000
+饰妆衔鰕虎	shi zhuang xian xia hu	2000
+彼氏冰鰕虎	bi shi bing xia hu	2000
+眼尾蝌蚪鰕虎	yan wei ke dou xia hu	2000
+斑点竿鰕虎	ban dian gan xia hu	2000
+阿部氏鲻鰕虎	a bu shi zi xia hu	2000
+泰加拉鲻鰕虎	tai jia la zi xia hu	2000
+长丝犁突鰕虎	chang si li tu xia hu	2000
+大口线塘鳢	da kou xian tang li	2000
+拉氏狼牙鰕虎	la shi lang ya xia hu	2000
+尖鳍寡鳞鰕虎	jian qi gua lin xia hu	2000
+台湾沟鰕虎鱼	tai wan gou xia hu yu	2000
+头孔塘鳢	tou kong tang li	2000
+拟犬牙刺盖鰕虎	ni quan ya ci gai xia hu	2000
+犬齿背眼鰕虎	quan chi bei yan xia hu	2000
+项鳞沟鰕虎	xiang lin gou xia hu	2000
+中华沟鰕虎	zhong hua gou xia hu	2000
+小鳞沟鰕虎	xiao lin gou xia hu	2000
+巴布亚沟鰕虎	ba bu ya gou xia hu	2000
+触角沟鰕虎	chu jiao gou xia hu	2000
+多须拟矛尾鰕虎	duo xu ni mao wei xia hu	2000
+棘头副叶鰕虎	ji tou fu ye xia hu	2000
+黑副叶鰕虎鱼	hei fu ye xia hu yu	2000
+黄身副叶鰕虎	huang shen fu ye xia hu	2000
+蜥形副平牙鰕虎	xi xing fu ping ya xia hu	2000
+小头副孔鰕虎	xiao tou fu kong xia hu	2000
+中华舌塘鳢	zhong hua she tang li	2000
+银线弹涂鱼	yin xian dan tu yu	2000
+卡路弹涂鱼	ka lu dan tu yu	2000
+大鳍弹涂鱼	da qi dan tu yu	2000
+弹涂鱼	dan tu yu	2000
+中华多椎鰕虎	zhong hua duo chui xia hu	2000
+横带锯鳞鰕虎	heng dai ju lin xia hu	2000
+半纹锯鳞鰕虎	ban wen ju lin xia hu	2000
+双眼斑砂鰕虎	shuang yan ban sha xia hu	2000
+长身拟平牙鰕虎	chang shen ni ping ya xia hu	2000
+小口拟鰕虎	xiao kou ni xia hu	2000
+杂色拟鰕虎	za se ni xia hu	2000
+台江拟鰕虎	tai jiang ni xia hu	2000
+黑尾鳍塘鳢	hei wei qi tang li	2000
+细鳞鳍塘鳢	xi lin qi tang li	2000
+蛇首高鳍鰕虎	she shou gao qi xia hu	2000
+褐吻鰕虎	he wen xia hu	2000
+子陵吻鰕虎	zi ling wen xia hu	2000
+大青弹涂鱼	da qing dan tu yu	2000
+青弹涂鱼	qing dan tu yu	2000
+早熟辛氏微体鱼	zao shu xin shi wei ti yu	2000
+环带瓢眼鰕虎	huan dai piao yan xia hu	2000
+条纹狭鰕虎	tiao wen xia xia hu	2000
+黑紫枝牙鰕虎	hei zi zhi ya xia hu	2000
+明仁枝牙鰕虎	ming ren zhi ya xia hu	2000
+多鳞枝牙鰕虎	duo lin zhi ya xia hu	2000
+黑鳍枝牙鰕虎	hei qi zhi ya xia hu	2000
+鳗鰕虎	man xia hu	2000
+须鳗鰕虎	xu man xia hu	2000
+丝鳍毛背鱼	si qi mao bei yu	2000
+髭缟鰕虎	zi gao xia hu	2000
+双带缟鰕虎	shuang dai gao xia hu	2000
+裸项缟鰕虎	luo xiang gao xia hu	2000
+暗缟鰕虎	an gao xia hu	2000
+纹缟鰕虎	wen gao xia hu	2000
+橘点磨塘鳢	ju dian mo tang li	2000
+红磨塘鳢	hong mo tang li	2000
+丝背磨塘鳢	si bei mo tang li	2000
+孔鰕虎	kong xia hu	2000
+大孔精美鰕虎	da kong jing mei xia hu	2000
+无斑凡塘鳢	wu ban fan tang li	2000
+长鳍凡塘鳢	chang qi fan tang li	2000
+石壁凡塘鳢	shi bi fan tang li	2000
+丝条凡塘鳢	si tiao fan tang li	2000
+鞍带凡塘鳢	an dai fan tang li	2000
+斑头梵鰕虎	ban tou fan xia hu	2000
+多鳞汉霖鰕虎	duo lin han lin xia hu	2000
+紫鳍细棘鰕虎	zi qi xi ji xia hu	2000
+梅氏细棘鰕虎	mei shi xi ji xia hu	2000
+云斑裸颊鰕虎	yun ban luo jia xia hu	2000
+普氏细棘鰕虎	pu shi xi ji xia hu	2000
+头纹细棘鰕虎	tou wen xi ji xia hu	2000
+布氏钝塘鳢	bu shi dun tang li	2000
+条带钝塘鳢	tiao dai dun tang li	2000
+福氏钝塘鳢	fu shi dun tang li	2000
+点纹钝塘鳢	dian wen dun tang li	2000
+日本钝塘鳢	ri ben dun tang li	2000
+小笠原钝塘鳢	xiao li yuan dun tang li	2000
+圆眶钝塘鳢	yuan kuang dun tang li	2000
+史氏钝塘鳢	shi shi dun tang li	2000
+太平岛钝塘鳢	tai ping dao dun tang li	2000
+威氏钝塘鳢	wei shi dun tang li	2000
+棘星塘鳢	ji xing tang li	2000
+沃氏软塘鳢	wo shi ruan tang li	2000
+髯毛鰕虎	ran mao xia hu	2000
+蓝点深鰕虎	lan dian shen xia hu	2000
+阔头深鰕虎	kuo tou shen xia hu	2000
+圆鳍深鰕虎	yuan qi shen xia hu	2000
+香江深鰕虎	xiang jiang shen xia hu	2000
+莱氏深鰕虎	lai shi shen xia hu	2000
+梅氏深鰕虎	mei shi shen xia hu	2000
+漂游珊瑚鰕虎	piao you shan hu xia hu	2000
+勇氏珊瑚鰕虎	yong shi shan hu xia hu	2000
+安汶脊塘鳢	an wen ji tang li	2000
+裸首脊塘鳢	luo shou ji tang li	2000
+黑点脊塘鳢	hei dian ji tang li	2000
+长鳍美鰕虎	chang qi mei xia hu	2000
+黑鳍缘美鰕虎	hei qi yuan mei xia hu	2000
+冲绳美鰕虎	chong sheng mei xia hu	2000
+沈氏美鰕虎	shen shi mei xia hu	2000
+史氏美鰕虎	shi shi mei xia hu	2000
+尾鳞头鰕虎	wei lin tou xia hu	2000
+台湾翼棘鰕虎	tai wan yi ji xia hu	2000
+浅色项冠鰕虎	qian se xiang guan xia hu	2000
+白背带丝鰕虎	bai bei dai si xia hu	2000
+眼斑丝鰕虎	yan ban si xia hu	2000
+纹斑丝鰕虎	wen ban si xia hu	2000
+谷津氏丝鰕虎	gu jin shi si xia hu	2000
+台湾栉眼鰕虎	tai wan zhi yan xia hu	2000
+格氏异翼鰕虎	ge shi yi yi xia hu	2000
+条纹几塘鳢	tiao wen ji tang li	2000
+暗色矶塘鳢	an se ji tang li	2000
+双斑异塘鳢	shuang ban yi tang li	2000
+日本几塘鳢	ri ben ji tang li	2000
+黑体几塘鳢	hei ti ji tang li	2000
+葱绿几塘鳢	cong lv ji tang li	2000
+昆士兰几塘鳢	kun shi lan ji tang li	2000
+塞班几塘鳢	sai ban ji tang li	2000
+希氏几塘鳢	xi shi ji tang li	2000
+蜘蛛几塘鳢	zhi zhu ji tang li	2000
+条尾几塘鳢	tiao wei ji tang li	2000
+绿带几塘鳢	lv dai ji tang li	2000
+雷氏蜂巢鰕虎	lei shi feng chao xia hu	2000
+裸项纺锤鰕虎	luo xiang fang chui xia hu	2000
+臂斑纺锤鰕虎	bi ban fang chui xia hu	2000
+下斑纺锤鰕虎	xia ban fang chui xia hu	2000
+长棘纺锤鰕虎	chang ji fang chui xia hu	2000
+巨纺锤鰕虎	ju fang chui xia hu	2000
+短棘纺锤鰕虎	duan ji fang chui xia hu	2000
+斑鳍纺锤鰕虎	ban qi fang chui xia hu	2000
+双须舌鰕虎	shuang xu she xia hu	2000
+拟背斑舌鰕虎	ni bei ban she xia hu	2000
+钝吻舌鰕虎	dun wen she xia hu	2000
+暗鳍舌鰕虎	an qi she xia hu	2000
+颌鳞鰕虎	he lin xia hu	2000
+眼带颌鳞鰕虎	yan dai he lin xia hu	2000
+橙色叶鰕虎	cheng se ye xia hu	2000
+黄褐叶鰕虎	huang he ye xia hu	2000
+小鳍叶鰕虎	xiao qi ye xia hu	2000
+灰叶鰕虎	hui ye xia hu	2000
+砂髯鰕虎	sha ran xia hu	2000
+邦氏鰕虎	bang shi xia hu	2000
+眼带鳚鰕虎	yan dai wei xia hu	2000
+大泷氏粗棘鰕虎	da long shi cu ji xia hu	2000
+杂色异塘鳢	za se yi tang li	2000
+华丽衔鰕虎	hua li xian xia hu	2000
+戈氏衔鰕虎	ge shi xian xia hu	2000
+和歌衔鰕虎	he ge xian xia hu	2000
+萨摩亚黏鰕虎	sa mo ya nian xia hu	2000
+海氏库曼鰕虎	hai shi ku man xia hu	2000
+克氏栉眼鰕虎鱼	ke shi zhi yan xia hu yu	2000
+短身裸叶鰕虎	duan shen luo ye xia hu	2000
+西海竿鰕虎	xi hai gan xia hu	2000
+大口巨颌鰕虎	da kou ju he xia hu	2000
+清尾鲻鰕虎	qing wei zi xia hu	2000
+诸氏鲻鰕虎	zhu shi zi xia hu	2000
+背斑鲻鰕虎	bei ban zi xia hu	2000
+大口犁突鰕虎	da kou li tu xia hu	2000
+巴布亚犁突鰕虎	ba bu ya li tu xia hu	2000
+杨氏犁突鰕虎	yang shi li tu xia hu	2000
+大口寡鳞鰕虎	da kou gua lin xia hu	2000
+刺盖鰕虎	ci gai xia hu	2000
+眼瓣沟鰕虎	yan ban gou xia hu	2000
+黑鳍副叶鰕虎	hei qi fu ye xia hu	2000
+疣副叶鰕虎	you fu ye xia hu	2000
+华美舌塘鳢	hua mei she tang li	2000
+带状舌塘鳢	dai zhuang she tang li	2000
+双叶腹瓢鰕虎	shuang ye fu piao xia hu	2000
+米氏腹瓢鰕虎	mi shi fu piao xia hu	2000
+莫桑比克腹瓢鰕虎	mo sang bi ke fu piao xia hu	2000
+广裸锯鳞鰕虎	guang luo ju lin xia hu	2000
+拟横带锯鳞鰕虎	ni heng dai ju lin xia hu	2000
+裸颊锯鳞鰕虎	luo jia ju lin xia hu	2000
+卡氏锯鳞鰕虎	ka shi ju lin xia hu	2000
+侧带锯鳞鰕虎	ce dai ju lin xia hu	2000
+项纹锯鳞鰕虎	xiang wen ju lin xia hu	2000
+丝尾鳍塘鳢	si wei qi tang li	2000
+尾斑鳍塘鳢	wei ban qi tang li	2000
+单鳍鳍塘鳢	dan qi qi tang li	2000
+斑马鳍塘鳢	ban ma qi tang li	2000
+拜库雷鰕虎	bai ku lei xia hu	2000
+短尾瓢鳍鰕虎	duan wei piao qi xia hu	2000
+史氏富山鰕虎	shi shi fu shan xia hu	2000
+毛背鱼	mao bei yu	2000
+纵带磨塘鳢	zong dai mo tang li	2000
+大眼磨塘鳢	da yan mo tang li	2000
+橘黄磨塘鳢	ju huang mo tang li	2000
+冲绳磨塘鳢	chong sheng mo tang li	2000
+大足微鰕虎	da zu wei xia hu	2000
+双带凡塘鳢	shuang dai fan tang li	2000
+大鳞凡塘鳢	da lin fan tang li	2000
+六斑凡塘鳢	liu ban fan tang li	2000
+安贝洛罗梵鰕虎	an bei luo luo fan xia hu	2000
+默氏梵鰕虎	mo shi fan xia hu	2000
+云纹裸颊鰕虎	yun wen luo jia xia hu	2000
+裸头钝塘鳢	luo tou dun tang li	2000
+棘平牙鰕虎	ji ping ya xia hu	2000
+短体盲鰕虎	duan ti mang xia hu	2000
+印尼脊塘鳢	yin ni ji tang li	2000
+斑鳍美鰕虎	ban qi mei xia hu	2000
+黑唇丝鰕虎	hei chun si xia hu	2000
+小头丝鰕虎	xiao tou si xia hu	2000
+银丝鰕虎	yin si xia hu	2000
+颞斑几塘鳢	nie ban ji tang li	2000
+印度衔鰕虎	yin du xian xia hu	2000
+侧扁窄颅塘鳢	ce bian zhai lu tang li	2000
+尾斑舌塘鳢	wei ban she tang li	2000
+纵带高鳍鰕虎	zong dai gao qi xia hu	2000
+奥奈氏富山鰕虎	ao nai shi fu shan xia hu	2000
+遮目鱼	zhe mu yu	2000
+鼠𬶮	shu xi	2000
+宽纹虎鲨	kuan wen hu sha	2000
+狭纹虎鲨	xia wen hu sha	2000
+尖头七鳃鲨	jian tou qi sai sha	2000
+灰六鳃鲨	hui liu sai sha	2000
+中村氏六鳃鲨	zhong cun shi liu sai sha	2000
+扁头哈那鲨	bian tou ha na sha	2000
+皱鳃鲨	zhou sai sha	2000
+焦黑锯鳞鱼	jiao hei ju lin yu	2000
+柏氏锯鳞鱼	bai shi ju lin yu	2000
+黄鳍锯鳞鱼	huang qi ju lin yu	2000
+康德锯鳞鱼	kang de ju lin yu	2000
+白边锯鳞鱼	bai bian ju lin yu	2000
+红锯鳞鱼	hong ju lin yu	2000
+紫红锯鳞鱼	zi hong ju lin yu	2000
+无斑锯鳞鱼	wu ban ju lin yu	2000
+银色新东洋鳂	yin se xin dong yang wei	2000
+黑鳍新东洋鳂	hei qi xin dong yang wei	2000
+莎姆新东洋鳂	sha mu xin dong yang wei	2000
+日本骨鳂	ri ben gu wei	2000
+深海骨鳂	shen hai gu wei	2000
+尾斑棘鳞鱼	wei ban ji lin yu	2000
+角棘鳞鱼	jiao ji lin yu	2000
+黑鳍棘鳞鱼	hei qi ji lin yu	2000
+剑棘鳞鱼	jian ji lin yu	2000
+黑点棘鳞鱼	hei dian ji lin yu	2000
+小口棘鳞鱼	xiao kou ji lin yu	2000
+斑纹棘鳞鱼	ban wen ji lin yu	2000
+点带棘鳞鱼	dian dai ji lin yu	2000
+尖吻棘鳞鱼	jian wen ji lin yu	2000
+大刺棘鳞鱼	da ci ji lin yu	2000
+白边棘鳞鱼	bai bian ji lin yu	2000
+凸颌锯鳞鱼	tu he ju lin yu	2000
+台湾锯鳞鱼	tai wan ju lin yu	2000
+六角锯鳞鱼	liu jiao ju lin yu	2000
+伦氏锯鳞鱼	lun shi ju lin yu	2000
+黄带新东洋鳂	huang dai xin dong yang wei	2000
+沈氏骨鳂	shen shi gu wei	2000
+滩涂琉球鳂	tan tu liu qiu wei	2000
+银带棘鳞鱼	yin dai ji lin yu	2000
+普拉斯林棘鳞鱼	pu la si lin ji lin yu	2000
+赤鳍棘鳞鱼	chi qi ji lin yu	2000
+黑似天竺鱼	hei si tian zhu yu	2000
+拟双带似天竺鱼	ni shuang dai si tian zhu yu	2000
+带似天竺鱼	dai si tian zhu yu	2000
+巨牙天竺鲷	ju ya tian zhu diao	2000
+五带巨牙天竺鲷	wu dai ju ya tian zhu diao	2000
+新加坡巨牙天竺鲷	xin jia po ju ya tian zhu diao	2000
+弓线天竺鲷	gong xian tian zhu diao	2000
+金色乳突天竺鲷	jin se ru tu tian zhu diao	2000
+斑鳍银口天竺鲷	ban qi yin kou tian zhu diao	2000
+黑边天竺鲷	hei bian tian zhu diao	2000
+细条天竺鲷	xi tiao tian zhu diao	2000
+史密斯氏天竺鲷	shi mi si shi tian zhu diao	2000
+烟台银口天竺鲷	yan tai yin kou tian zhu diao	2000
+颊纹圣天竺鲷	jia wen sheng tian zhu diao	2000
+库氏鹦天竺鲷	ku shi ying tian zhu diao	2000
+稻氏鹦天竺鲷	dao shi ying tian zhu diao	2000
+宽条鹦天竺鲷	kuan tiao ying tian zhu diao	2000
+斑柄鹦天竺鲷	ban bing ying tian zhu diao	2000
+中线鹦天竺鲷	zhong xian ying tian zhu diao	2000
+黑带鹦天竺鲷	hei dai ying tian zhu diao	2000
+九线鹦天竺鲷	jiu xian ying tian zhu diao	2000
+侧带鹦天竺鲷	ce dai ying tian zhu diao	2000
+施氏鹦天竺鲷	shi shi ying tian zhu diao	2000
+半线鹦天竺鲷	ban xian ying tian zhu diao	2000
+三斑锯竺鲷	san ban ju zhu diao	2000
+环纹圆天竺鲷	huan wen yuan tian zhu diao	2000
+多刺天竺鲷	duo ci tian zhu diao	2000
+透明红天竺鲷	tou ming hong tian zhu diao	2000
+坚头天竺鲷	jian tou tian zhu diao	2000
+长棘天竺鲷	chang ji tian zhu diao	2000
+褐条天竺鲷	he tiao tian zhu diao	2000
+锯颊天竺鲷	ju jia tian zhu diao	2000
+半饰天竺鲷	ban shi tian zhu diao	2000
+单色天竺鲷	dan se tian zhu diao	2000
+垂带似天竺鲷	chui dai si tian zhu diao	2000
+黑身似天竺鱼	hei shen si tian zhu yu	2000
+黑鳍似天竺鱼	hei qi si tian zhu yu	2000
+帝汶似天竺鱼	di wen si tian zhu yu	2000
+眼斑天竺鱼	yan ban tian zhu yu	2000
+鸠斑天竺鱼	jiu ban tian zhu yu	2000
+布氏长鳍天竺鲷	bu shi chang qi tian zhu diao	2000
+纵带巨牙天竺鲷	zong dai ju ya tian zhu diao	2000
+圆盖巨牙天竺鲷	yuan gai ju ya tian zhu diao	2000
+驼背线天竺鲷	tuo bei xian tian zhu diao	2000
+条腹线天竺鲷	tiao fu xian tian zhu diao	2000
+菲律宾腭竺鱼	fei lv bin e zhu yu	2000
+犬形乳突天竺鲷	quan xing ru tu tian zhu diao	2000
+显斑乳突天竺鲷	xian ban ru tu tian zhu diao	2000
+维拉乳突天竺鲷	wei la ru tu tian zhu diao	2000
+杂斑乳突天竺鲷	za ban ru tu tian zhu diao	2000
+无斑裸天竺鲷	wu ban luo tian zhu diao	2000
+日本裸天竺鲷	ri ben luo tian zhu diao	2000
+菲律宾裸天竺鲷	fei lv bin luo tian zhu diao	2000
+尾斑裸天竺鲷	wei ban luo tian zhu diao	2000
+条纹银口天竺鲷	tiao wen yin kou tian zhu diao	2000
+八棘扁天竺鲷	ba ji bian tian zhu diao	2000
+褐色圣天竺鲷	he se sheng tian zhu diao	2000
+萨摩亚圣天竺鲷	sa mo ya sheng tian zhu diao	2000
+纵带鹦天竺鲷	zong dai ying tian zhu diao	2000
+短齿鹦天竺鲷	duan chi ying tian zhu diao	2000
+环尾鹦天竺鲷	huan wei ying tian zhu diao	2000
+陈氏鹦天竺鲷	chen shi ying tian zhu diao	2000
+黄体鹦天竺鲷	huang ti ying tian zhu diao	2000
+裂带鹦天竺鲷	lie dai ying tian zhu diao	2000
+金带鹦天竺鲷	jin dai ying tian zhu diao	2000
+箭矢鹦天竺鲷	jian shi ying tian zhu diao	2000
+细线鹦天竺鲷	xi xian ying tian zhu diao	2000
+霍氏鹦天竺鲷	huo shi ying tian zhu diao	2000
+全纹鹦天竺鲷	quan wen ying tian zhu diao	2000
+摩鹿加鹦天竺鲷	mo lu jia ying tian zhu diao	2000
+多带鹦天竺鲷	duo dai ying tian zhu diao	2000
+黑点鹦天竺鲷	hei dian ying tian zhu diao	2000
+小鹦天竺鲷	xiao ying tian zhu diao	2000
+棕斑鹦天竺鲷	zong ban ying tian zhu diao	2000
+褐带鹦天竺鲷	he dai ying tian zhu diao	2000
+单线棘眼天竺鲷	dan xian ji yan tian zhu diao	2000
+棘眼天竺鲷	ji yan tian zhu diao	2000
+丽鳍棘眼天竺鲷	li qi ji yan tian zhu diao	2000
+条鳍棘眼天竺鲷	tiao qi ji yan tian zhu diao	2000
+钝尾拟天竺鲷	dun wei ni tian zhu diao	2000
+犬牙拟天竺鲷	quan ya ni tian zhu diao	2000
+林氏拟天竺鲷	lin shi ni tian zhu diao	2000
+准天竺鲷	zhun tian zhu diao	2000
+箭天竺鲷	jian tian zhu diao	2000
+棕线管天竺鲷	zong xian guan tian zhu diao	2000
+马岛氏管天竺鲷	ma dao shi guan tian zhu diao	2000
+汤加管天竺鲷	tang jia guan tian zhu diao	2000
+丝鳍圆天竺鲷	si qi yuan tian zhu diao	2000
+双斑带天竺鲷	shuang ban dai tian zhu diao	2000
+横带天竺鲷	heng dai tian zhu diao	2000
+褐斑带天竺鲷	he ban dai tian zhu diao	2000
+鹿儿带天竺鲷	lu er dai tian zhu diao	2000
+真带天竺鲷	zhen dai tian zhu diao	2000
+燕尾矛天竺鲷	yan wei mao tian zhu diao	2000
+齐氏狸天竺鲷	qi shi li tian zhu diao	2000
+双带似天竺鱼	shuang dai si tian zhu yu	2000
+印度洋银口天竺鲷	yin du yang yin kou tian zhu diao	2000
+浅海长尾鲨	qian hai chang wei sha	2000
+弧形长尾鲨	hu xing chang wei sha	2000
+锥齿鲨	zhui chi sha	2000
+噬人鲨	shi ren sha	2000
+姥鲨	lao sha	2000
+尖吻鲭鲨	jian wen qing sha	2000
+大眼长尾鲨	da yan chang wei sha	2000
+长臂鲭鲨	chang bi qing sha	2000
+蒲原氏拟锥齿鲨	pu yuan shi ni zhui chi sha	2000
+菲氏真冠带鱼	fei shi zhen guan dai yu	2000
+斑点月鱼	ban dian yue yu	2000
+勒氏皇带鱼	le shi huang dai yu	2000
+石川粗鳍鱼	shi chuan cu qi yu	2000
+粗鳍鱼	cu qi yu	2000
+旗月鱼	qi yue yu	2000
+冠丝鳍鱼	guan si qi yu	2000
+多斑扇尾鱼	duo ban shan wei yu	2000
+异尾带鱼	yi wei dai yu	2000
+细斑躄鱼	xi ban bi yu	2000
+新几内亚躄鱼	xin ji nei ya bi yu	2000
+日本躄鱼	ri ben bi yu	2000
+毛躄鱼	mao bi yu	2000
+带纹躄鱼	dai wen bi yu	2000
+后棘蟾𩽾𩾌	hou ji chan an kang	2000
+霍氏角𩽾𩾌	huo shi jiao an kang	2000
+单棘躄鱼	dan ji bi yu	2000
+密棘角𩽾𩾌	mi ji jiao an kang	2000
+梵氏巨棘𩽾𩾌	fan shi ju ji an kang	2000
+网纹牙棘茄鱼	wang wen ya ji qie yu	2000
+云纹棘茄鱼	yun wen ji qie yu	2000
+印度棘茄鱼	yin du ji qie yu	2000
+棘茄鱼	ji qie yu	2000
+多指鞭冠𩽾𩾌	duo zhi bian guan an kang	2000
+裸躄鱼	luo bi yu	2000
+褐拟𩽾𩾌	he ni an kang	2000
+黑𩽾𩾌	hei an kang	2000
+黄𩽾𩾌	huang an kang	2000
+环纹海蝠鱼	huan wen hai fu yu	2000
+约氏黑犀鱼	yue shi hei xi yu	2000
+双斑躄鱼	shuang ban bi yu	2000
+康氏躄鱼	kang shi bi yu	2000
+大斑躄鱼	da ban bi yu	2000
+白斑躄鱼	bai ban bi yu	2000
+蓝道氏躄鱼	lan dao shi bi yu	2000
+网纹手躄鱼	wang wen shou bi yu	2000
+邵氏蟾𩽾𩾌	shao shi chan an kang	2000
+大洋茎角𩽾𩾌	da yang jing jiao an kang	2000
+刺𩽾𩾌	ci an kang	2000
+阿部单棘躄鱼	a bu dan ji bi yu	2000
+粉红单棘躄鱼	fen hong dan ji bi yu	2000
+红单棘躄鱼	hong dan ji bi yu	2000
+黑口单棘躄鱼	hei kou dan ji bi yu	2000
+云纹单棘躄鱼	yun wen dan ji bi yu	2000
+绿网纹单棘躄鱼	lv wang wen dan ji bi yu	2000
+短尾腔蝠鱼	duan wei qiang fu yu	2000
+小足腔蝠鱼	xiao zu qiang fu yu	2000
+日本长鳍蝠鱼	ri ben chang qi fu yu	2000
+细瓣双角𩽾𩾌	xi ban shuang jiao an kang	2000
+黑狡𩽾𩾌	hei jiao an kang	2000
+陈氏巨棘𩽾𩾌	chen shi ju ji an kang	2000
+艾氏大角𩽾𩾌	ai shi da jiao an kang	2000
+深口大角𩽾𩾌	shen kou da jiao an kang	2000
+黑牙棘茄鱼	hei ya ji qie yu	2000
+费氏棘茄鱼	fei shi ji qie yu	2000
+英格拟棘茄鱼	ying ge ni ji qie yu	2000
+马格瑞拟棘茄鱼	ma ge rui ni ji qie yu	2000
+准拟棘茄鱼	zhun ni ji qie yu	2000
+黑鞭冠𩽾𩾌	hei bian guan an kang	2000
+隐刺薄躄鱼	yin ci bao bi yu	2000
+印度树须鱼	yin du shu xu yu	2000
+远藤拟𩽾𩾌	yuan teng ni an kang	2000
+大眼拟𩽾𩾌	da yan ni an kang	2000
+印度冠𩽾𩾌	yin du guan an kang	2000
+台湾海蝠鱼	tai wan hai fu yu	2000
+巨海蝠鱼	ju hai fu yu	2000
+科氏海蝠鱼	ke shi hai fu yu	2000
+钩棘海蝠鱼	gou ji hai fu yu	2000
+斑点海蝠鱼	ban dian hai fu yu	2000
+短柄黑犀鱼	duan bing hei xi yu	2000
+新角𩽾𩾌	xin jiao an kang	2000
+卡氏梦𩽾𩾌	ka shi meng an kang	2000
+台湾梦𩽾𩾌	tai wan meng an kang	2000
+皮氏梦𩽾𩾌	pi shi meng an kang	2000
+砂梦𩽾𩾌	sha meng an kang	2000
+细丝吻长角𩽾𩾌	xi si wen chang jiao an kang	2000
+长丝吻长角𩽾𩾌	chang si wen chang jiao an kang	2000
+星点梭罗蝠鱼	xing dian suo luo fu yu	2000
+剑状棘蟾𩽾𩾌	jian zhuang ji chan an kang	2000
+印度洋奇𩽾𩾌	yin du yang qi an kang	2000
+暴龙蜍𩽾𩾌	bao long chu an kang	2000
+粒唇鲻	li chun zi	2000
+圆吻凡鲻	yuan wen fan zi	2000
+黄鲻	huang zi	2000
+鲻	zi	2000
+科氏鲻	ke shi zi	2000
+英氏凡鲻	ying shi fan zi	2000
+台湾凡鲻	tai wan fan zi	2000
+斯氏凡鲻	si shi fan zi	2000
+前鳞鮻	qian lin suo	2000
+棱鮻	leng suo	2000
+鮻	suo	2000
+大鳞鮻	da lin suo	2000
+塞兰鮻	sai lan suo	2000
+尖头鮻	jian tou suo	2000
+角瘤唇鲻	jiao liu chun zi	2000
+佩氏莫鲻	pei shi mo zi	2000
+竹筒鮻	zhu tong suo	2000
+白鮻	bai suo	2000
+盾副鲻	dun fu zi	2000
+黄带拟羊鱼	huang dai ni yang yu	2000
+无斑拟羊鱼	wu ban ni yang yu	2000
+条斑副绯鲤	tiao ban fu fei li	2000
+双带副绯鲤	shuang dai fu fei li	2000
+短须副绯鲤	duan xu fu fei li	2000
+圆口副绯鲤	yuan kou fu fei li	2000
+七棘副绯鲤	qi ji fu fei li	2000
+印度副绯鲤	yin du fu fei li	2000
+多带副绯鲤	duo dai fu fei li	2000
+黑斑副绯鲤	hei ban fu fei li	2000
+异奇棘绯鲤	yi qi ji fei li	2000
+日本绯鲤	ri ben fei li	2000
+马六甲绯鲤	ma liu jia fei li	2000
+四带绯鲤	si dai fei li	2000
+纵带绯鲤	zong dai fei li	2000
+黄带绯鲤	huang dai fei li	2000
+纹鳍绯鲤	wen qi fei li	2000
+黑斑绯鲤	hei ban fei li	2000
+多带绯鲤	duo dai fei li	2000
+红背拟羊鱼	hong bei ni yang yu	2000
+似条斑副绯鲤	si tiao ban fu fei li	2000
+黄带副绯鲤	huang dai fu fei li	2000
+粗唇副绯鲤	cu chun fu fei li	2000
+玫瑰副绯鲤	mei gui fu fei li	2000
+点纹副绯鲤	dian wen fu fei li	2000
+三带副绯鲤	san dai fu fei li	2000
+带底灯鱼	dai di deng yu	2000
+七星底灯鱼	qi xing di deng yu	2000
+耀眼底灯鱼	yao yan di deng yu	2000
+长鳍虹灯鱼	chang qi hong deng yu	2000
+眶暗虹灯鱼	kuang an hong deng yu	2000
+牡锦灯鱼	mu jin deng yu	2000
+椭锦灯鱼	tuo jin deng yu	2000
+汤氏角灯鱼	tang shi jiao deng yu	2000
+瓦明氏角灯鱼	wa ming shi jiao deng yu	2000
+暗色灯笼鱼	an se deng long yu	2000
+钝吻灯笼鱼	dun wen deng long yu	2000
+粗短灯笼鱼	cu duan deng long yu	2000
+栉刺灯笼鱼	zhi ci deng long yu	2000
+长距眶灯鱼	chang ju kuang deng yu	2000
+短头眶灯鱼	duan tou kuang deng yu	2000
+金鼻眶灯鱼	jin bi kuang deng yu	2000
+蓝光眶灯鱼	lan guang kuang deng yu	2000
+冠冕眶灯鱼	guan mian kuang deng yu	2000
+符氏眶灯鱼	fu shi kuang deng yu	2000
+灿烂眶灯鱼	can lan kuang deng yu	2000
+喀氏眶灯鱼	ka shi kuang deng yu	2000
+颜氏眶灯鱼	yan shi kuang deng yu	2000
+耀眼眶灯鱼	yao yan kuang deng yu	2000
+吕氏眶灯鱼	lv shi kuang deng yu	2000
+马来亚眶灯鱼	ma lai ya kuang deng yu	2000
+短距眶灯鱼	duan ju kuang deng yu	2000
+帕尔眶灯鱼	pa er kuang deng yu	2000
+华丽眶灯鱼	hua li kuang deng yu	2000
+菲氏眶灯鱼	fei shi kuang deng yu	2000
+翘光眶灯鱼	qiao guang kuang deng yu	2000
+李氏眶灯鱼	li shi kuang deng yu	2000
+相模湾眶灯鱼	xiang mo wan kuang deng yu	2000
+后光眶灯鱼	hou guang kuang deng yu	2000
+光腺眶灯鱼	guang xian kuang deng yu	2000
+渡濑眶灯鱼	du lai kuang deng yu	2000
+大西洋明灯鱼	da xi yang ming deng yu	2000
+近壮灯鱼	jin zhuang deng yu	2000
+莱氏壮灯鱼	lai shi zhuang deng yu	2000
+发光炬灯鱼	fa guang ju deng yu	2000
+暗柄炬灯鱼	an bing ju deng yu	2000
+翼珍灯鱼	yi zhen deng yu	2000
+杂色珍灯鱼	za se zhen deng yu	2000
+赫氏珍灯鱼	he shi zhen deng yu	2000
+大鳍珍灯鱼	da qi zhen deng yu	2000
+黑体珍灯鱼	hei ti zhen deng yu	2000
+诺贝珍灯鱼	nuo bei zhen deng yu	2000
+天纽珍灯鱼	tian niu zhen deng yu	2000
+金焰灯笼鱼	jin yan deng long yu	2000
+双灯灯笼鱼	shuang deng deng long yu	2000
+闪光灯笼鱼	shan guang deng long yu	2000
+大鳞新灯鱼	da lin xin deng yu	2000
+小鳍新灯鱼	xiao qi xin deng yu	2000
+多孔新灯鱼	duo kong xin deng yu	2000
+闪光背灯鱼	shan guang bei deng yu	2000
+拟灯笼鱼	ni deng long yu	2000
+埃氏标灯鱼	ai shi biao deng yu	2000
+前臀月灯鱼	qian tun yue deng yu	2000
+浅黑尾灯鱼	qian hei wei deng yu	2000
+奈氏眼眶鱼	nai shi yan kuang yu	2000
+太平洋眶灯鱼	tai ping yang kuang deng yu	2000
+史氏眶灯鱼	shi shi kuang deng yu	2000
+亮眶灯鱼	liang kuang deng yu	2000
+谭氏眶灯鱼	tan shi kuang deng yu	2000
+高体电灯鱼	gao ti dian deng yu	2000
+图氏珍灯鱼	tu shi zhen deng yu	2000
+吉氏叶灯鱼	ji shi ye deng yu	2000
+瓦氏尖吻背灯鱼	wa shi jian wen bei deng yu	2000
+尾棘背灯鱼	wei ji bei deng yu	2000
+眼斑鹞鲼	yan ban yao fen	2000
+花点无刺鲼	hua dian wu ci fen	2000
+鹰状无刺鲼	ying zhuang wu ci fen	2000
+聂氏无刺鲼	nie shi wu ci fen	2000
+蝠状无刺鲼	fu zhuang wu ci fen	2000
+双斑燕𫚉	shuang ban yan hong	2000
+克氏燕𫚉	ke shi yan hong	2000
+日本燕𫚉	ri ben yan hong	2000
+花尾燕𫚉	hua wei yan hong	2000
+赤𫚉	chi hong	2000
+白玉𫚙	bai yu bu	2000
+光𫚉	guang hong	2000
+黑土𫚉	hei tu hong	2000
+中国𫚉	zhong guo hong	2000
+小眼窄尾𫚉	xiao yan zhai wei hong	2000
+花点窄尾𫚉	hua dian zhai wei hong	2000
+齐氏土𫚉	qi shi tu hong	2000
+双吻前口蝠鲼	shuang wen qian kou fu fen	2000
+日本蝠鲼	ri ben fu fen	2000
+鸢鲼	yuan fen	2000
+达氏深水尾𫚉	da shi shen shui wei hong	2000
+爪哇牛鼻鲼	zhao wa niu bi fen	2000
+杰氏牛鼻鲼	jie shi niu bi fen	2000
+迈氏条尾𫚉	mai shi tiao wei hong	2000
+尖嘴土𫚉	jian zui tu hong	2000
+糙沙粒𫚉	cao sha li hong	2000
+褐黄扁𫚉	he huang bian hong	2000
+鬼土𫚉	gui tu hong	2000
+比氏六鳃𫚉	bi shi liu sai hong	2000
+波缘窄尾𫚉	bo yuan zhai wei hong	2000
+褐背蝠鲼	he bei fu fen	2000
+杂色新𫚉	za se xin hong	2000
+蒲氏黏盲鳗	pu shi nian mang man	2000
+中华黏盲鳗	zhong hua nian mang man	2000
+陈氏黏盲鳗	chen shi nian mang man	2000
+费氏黏盲鳗	fei shi nian mang man	2000
+纽氏黏盲鳗	niu shi nian mang man	2000
+紫黏盲鳗	zi nian mang man	2000
+沈氏黏盲鳗	shen shi nian mang man	2000
+台湾黏盲鳗	tai wan nian mang man	2000
+怀氏黏盲鳗	huai shi nian mang man	2000
+杨氏黏盲鳗	yang shi nian mang man	2000
+台湾盲鳗	tai wan mang man	2000
+郭氏盲鳗	guo shi mang man	2000
+红尾盲鳗	hong wei mang man	2000
+异鳞海蜴鱼	yi lin hai yi yu	2000
+长吻背棘鱼	chang wen bei ji yu	2000
+大眼海鼬鱼	da yan hai you yu	2000
+琉球海鼬鱼	liu qiu hai you yu	2000
+盲鼬鳚	mang you wei	2000
+壮体索深鼬鳚	zhuang ti suo shen you wei	2000
+多须鼬鳚	duo xu you wei	2000
+蒙氏潜鱼	meng shi qian yu	2000
+暗色猎神深鳚	an se lie shen shen wei	2000
+越南猎神深鳚	yue nan lie shen shen wei	2000
+五指丝指鼬鳚	wu zhi si zhi you wei	2000
+短丝指鼬鳚	duan si zhi you wei	2000
+博拉细潜鱼	bo la xi qian yu	2000
+长胸细潜鱼	chang xiong xi qian yu	2000
+佐上细潜鱼	zuo shang xi qian yu	2000
+粗寡须鳚	cu gua xu wei	2000
+长趾鼬鳚	chang zhi you wei	2000
+棘鼬鳚	ji you wei	2000
+布氏软鼬鳚	bu shi ruan you wei	2000
+巴奇氏矛鼬鳚	ba qi shi mao you wei	2000
+熊吉单趾鼬鳚	xiong ji dan zhi you wei	2000
+黑潮新鼬鳚	hei chao xin you wei	2000
+单斑新鼬鳚	dan ban xin you wei	2000
+短臂钩潜鱼	duan bi gou qian yu	2000
+席鳞鼬鳚	xi lin you wei	2000
+黑边鼬鳚	hei bian you wei	2000
+细鳞姬鼬鳚	xi lin ji you wei	2000
+仙鼬鳚	xian you wei	2000
+大棘鼬鳚	da ji you wei	2000
+扁索深鼬鳚	bian suo shen you wei	2000
+黏身索深鼬鳚	nian shen suo shen you wei	2000
+大尾深水鼬鳚	da wei shen shui you wei	2000
+台湾小线深鳚	tai wan xiao xian shen wei	2000
+双线鼬鳚	shuang xian you wei	2000
+鳗形细潜鱼	man xing xi qian yu	2000
+日本突吻潜鱼	ri ben tu wen qian yu	2000
+光曲鼬鳚	guang qu you wei	2000
+深海钝吻鼬鳚	shen hai dun wen you wei	2000
+重齿单趾鼬鳚	chong chi dan zhi you wei	2000
+横带新鼬鳚	heng dai xin you wei	2000
+多斑新鼬鳚	duo ban xin you wei	2000
+流星钩隐鱼	liu xing gou yin yu	2000
+福氏钩潜鱼	fu shi gou qian yu	2000
+头棘孔鼬鳚	tou ji kong you wei	2000
+鳞头拟鼠鳚	lin tou ni shu wei	2000
+纤尾锥齿潜鱼	xian wei zhui chi qian yu	2000
+梅氏棘鳃鼬鳚	mei shi ji sai you wei	2000
+长头单趾鼬鳚	chang tou dan zhi you wei	2000
+灰斑竹鲨	hui ban zhu sha	2000
+印度斑竹鲨	yin du ban zhu sha	2000
+条纹斑竹鲨	tiao wen ban zhu sha	2000
+点纹斑竹鲨	dian wen ban zhu sha	2000
+橙黄鲨	cheng huang sha	2000
+台湾橙黄鲨	tai wan cheng huang sha	2000
+长尾光鳞鲨	chang wei guang lin sha	2000
+日本须鲨	ri ben xu sha	2000
+鲸鲨	jing sha	2000
+大尾虎鲛	da wei hu jiao	2000
+池沼公鱼	chi zhao gong yu	2000
+安氏新银鱼	an shi xin yin yu	2000
+短吻新银鱼	duan wen xin yin yu	2000
+乔氏新银鱼	qiao shi xin yin yu	2000
+香鱼	xiang yu	2000
+大银鱼	da yin yu	2000
+有明银鱼	you ming yin yu	2000
+中国银鱼	zhong guo yin yu	2000
+居氏银鱼	ju shi yin yu	2000
+前颌银鱼	qian he yin yu	2000
+孟加拉豆娘鱼	meng jia la dou niang yu	2000
+七带豆娘鱼	qi dai dou niang yu	2000
+六带豆娘鱼	liu dai dou niang yu	2000
+豆娘鱼	dou niang yu	2000
+五带豆娘鱼	wu dai dou niang yu	2000
+海氏若棘鮗	hai shi ruo ji dong	2000
+杜氏双边鱼	du shi shuang bian yu	2000
+裸头双边鱼	luo tou shuang bian yu	2000
+金凹牙豆娘鱼	jin ao ya dou niang yu	2000
+库拉索凹牙豆娘鱼	ku la suo ao ya dou niang yu	2000
+白腹凹牙豆娘鱼	bai fu ao ya dou niang yu	2000
+背纹双锯鱼	bei wen shuang ju yu	2000
+二带双锯鱼	er dai shuang ju yu	2000
+克氏双锯鱼	ke shi shuang ju yu	2000
+大眼双锯鱼	da yan shuang ju yu	2000
+白条双锯鱼	bai tiao shuang ju yu	2000
+海葵双锯鱼	hai kui shuang ju yu	2000
+项环双锯鱼	xiang huan shuang ju yu	2000
+鞍斑双锯鱼	an ban shuang ju yu	2000
+蓝氏燕尾鮗	lan shi yan wei dong	2000
+细鳞光鳃雀鲷	xi lin guang sai que diao	2000
+珍珠丽鮗	zhen zhu li dong	2000
+长臀光鳃鱼	chang tun guang sai yu	2000
+长棘光鳃鱼	chang ji guang sai yu	2000
+东海光鳃鱼	dong hai guang sai yu	2000
+尾斑光鳃鱼	wei ban guang sai yu	2000
+条尾光鳃鱼	tiao wei guang sai yu	2000
+蓝绿光鳃鱼	lan lv guang sai yu	2000
+黄尾光鳃鱼	huang wei guang sai yu	2000
+双斑金翅雀鲷	shuang ban jin chi que diao	2000
+勃氏金翅雀鲷	bo shi jin chi que diao	2000
+圆尾金翅雀鲷	yuan wei jin chi que diao	2000
+青金翅雀鲷	qing jin chi que diao	2000
+史氏金翅雀鲷	shi shi jin chi que diao	2000
+塔氏金翅雀鲷	ta shi jin chi que diao	2000
+无斑金翅雀鲷	wu ban jin chi que diao	2000
+鳗鲷	man diao	2000
+宅泥鱼	zhai ni yu	2000
+灰边宅泥鱼	hui bian zhai ni yu	2000
+三斑宅泥鱼	san ban zhai ni yu	2000
+白点盘雀鲷	bai dian pan que diao	2000
+黑斑盘雀鲷	hei ban pan que diao	2000
+显盘雀鲷	xian pan que diao	2000
+黑背盘雀鲷	hei bei pan que diao	2000
+暗褐盘雀鲷	an he pan que diao	2000
+海鲋	hai fu	2000
+密鳃鱼	mi sai yu	2000
+圆眼戴氏鱼	yuan yan dai shi yu	2000
+黑新箭齿雀鲷	hei xin jian chi que diao	2000
+纹胸新箭齿雀鲷	wen xiong xin jian chi que diao	2000
+黄尾新雀鲷	huang wei xin que diao	2000
+条尾新雀鲷	tiao wei xin que diao	2000
+紫身新雀鲷	zi shen xin que diao	2000
+艾氏后颌䲢	ai shi hou he teng	2000
+狄氏椒雀鲷	di shi jiao que diao	2000
+珊瑚海近雀鲷	shan hu hai jin que diao	2000
+白带椒雀鲷	bai dai jiao que diao	2000
+蓝线鮗	lan xian dong	2000
+班卡雀鲷	ban ka que diao	2000
+臂雀鲷	bi que diao	2000
+摩鹿加雀鲷	mo lu jia que diao	2000
+孔雀雀鲷	kong que que diao	2000
+菲律宾雀鲷	fei lv bin que diao	2000
+三斑雀鲷	san ban que diao	2000
+王子雀鲷	wang zi que diao	2000
+李氏波光鳃鱼	li shi bo guang sai yu	2000
+褐拟雀鲷	he ni que diao	2000
+壮拟雀鲷	zhuang ni que diao	2000
+大尾光鳃鱼	da wei guang sai yu	2000
+两色光鳃雀鲷	liang se guang sai que diao	2000
+卵形光鳃雀鲷	luan xing guang sai que diao	2000
+无斑叉棘䲢	wu ban cha ji teng	2000
+白带眶锯雀鲷	bai dai kuang ju que diao	2000
+珠点固曲齿鲷	zhu dian gu qu chi diao	2000
+黑眶锯雀鲷	hei kuang ju que diao	2000
+乔氏蜥雀鲷	qiao shi xi que diao	2000
+劳伦氏豆娘鱼	lao lun shi dou niang yu	2000
+黑边豆娘鱼	hei bian dou niang yu	2000
+黄尾豆娘鱼	huang wei dou niang yu	2000
+滑腹若棘鮗	hua fu ruo ji dong	2000
+断线双边鱼	duan xian shuang bian yu	2000
+小眼双边鱼	xiao yan shuang bian yu	2000
+尾纹双边鱼	wei wen shuang bian yu	2000
+平颌凹牙豆娘鱼	ping he ao ya dou niang yu	2000
+眼斑双锯鱼	yan ban shuang ju yu	2000
+白背双锯鱼	bai bei shuang ju yu	2000
+麦氏燕尾鮗	mai shi yan wei dong	2000
+菲律宾针鳍鮗	fei lv bin zhen qi dong	2000
+横带针翅鮗	heng dai zhen chi dong	2000
+锯唇鱼	ju chun yu	2000
+白斑光鳃鱼	bai ban guang sai yu	2000
+绿光鳃鱼	lv guang sai yu	2000
+灰光鳃鱼	hui guang sai yu	2000
+黄斑光鳃鱼	huang ban guang sai yu	2000
+烟色光鳃鱼	yan se guang sai yu	2000
+大沼氏光鳃鱼	da zhao shi guang sai yu	2000
+盖光鳃鱼	gai guang sai yu	2000
+韦氏光鳃鱼	wei shi guang sai yu	2000
+黄腋光鳃鱼	huang ye guang sai yu	2000
+橙黄金翅雀鲷	cheng huang jin chi que diao	2000
+三带金翅雀鲷	san dai jin chi que diao	2000
+扎帕驼雀鲷	zha pa tuo que diao	2000
+黑尾宅泥鱼	hei wei zhai ni yu	2000
+网纹宅泥鱼	wang wen zhai ni yu	2000
+黑褐新箭齿雀鲷	hei he xin jian chi que diao	2000
+蓝黑新雀鲷	lan hei xin que diao	2000
+卡氏后颌䲢	ka shi hou he teng	2000
+香港后颌䲢	xiang gang hou he teng	2000
+苏禄后颌䲢	su lu hou he teng	2000
+多彩后颌䲢	duo cai hou he teng	2000
+紫绣雀鲷	zi xiu que diao	2000
+羽高身雀鲷	yu gao shen que diao	2000
+尖高身雀鲷	jian gao shen que diao	2000
+黄高身雀鲷	huang gao shen que diao	2000
+羽状椒雀鲷	yu zhuang jiao que diao	2000
+岛屿高身雀鲷	dao yu gao shen que diao	2000
+尾斑椒雀鲷	wei ban jiao que diao	2000
+斑棘椒雀鲷	ban ji jiao que diao	2000
+凤凰椒雀鲷	feng huang jiao que diao	2000
+珊瑚鮗	shan hu dong	2000
+仲原氏鮗	zhong yuan shi dong	2000
+羞鮗	xiu dong	2000
+胸斑雀鲷	xiong ban que diao	2000
+安汶雀鲷	an wen que diao	2000
+金尾雀鲷	jin wei que diao	2000
+霓虹雀鲷	ni hong que diao	2000
+蓝点雀鲷	lan dian que diao	2000
+颊鳞雀鲷	jia lin que diao	2000
+长崎雀鲷	chang qi que diao	2000
+黑缘雀鲷	hei yuan que diao	2000
+斑点雀鲷	ban dian que diao	2000
+弓纹雀鲷	gong wen que diao	2000
+钝吻锯雀鲷	dun wen ju que diao	2000
+蓝带拟雀鲷	lan dai ni que diao	2000
+灰黄拟雀鲷	hui huang ni que diao	2000
+马歇尔岛拟雀鲷	ma xie er dao ni que diao	2000
+条纹拟雀鲷	tiao wen ni que diao	2000
+紫青拟雀鲷	zi qing ni que diao	2000
+玫瑰拟鮗	mei gui ni dong	2000
+侏儒光鳃雀鲷	zhu ru guang sai que diao	2000
+亚伦氏光鳃雀鲷	ya lun shi guang sai que diao	2000
+黑鳍光鳃雀鲷	hei qi guang sai que diao	2000
+黑带光鳃雀鲷	hei dai guang sai que diao	2000
+凡氏光鳃雀鲷	fan shi guang sai que diao	2000
+沈氏叉棘䲢	shen shi cha ji teng	2000
+大斑眶锯雀鲷	da ban kuang ju que diao	2000
+布鲁双边鱼	bu lu shuang bian yu	2000
+斑氏新雀鲷	ban shi xin que diao	2000
+红海叉棘䲢	hong hai cha ji teng	2000
+尾斑鲬状鱼	wei ban yong zhuang yu	2000
+曲线鲬状鱼	qu xian yong zhuang yu	2000
+绿尾低线鱼	lv wei di xian yu	2000
+黄斑低线鱼	huang ban di xian yu	2000
+丝棘鲬状鱼	si ji yong zhuang yu	2000
+斑头六线鱼	ban tou liu xian yu	2000
+大泷六线鱼	da long liu xian yu	2000
+网纹狮子鱼	wang wen shi zi yu	2000
+河北狮子鱼	he bei shi zi yu	2000
+田中狮子鱼	tian zhong shi zi yu	2000
+远东多线鱼	yuan dong duo xian yu	2000
+银带鳚杜父鱼	yin dai wei du fu yu	2000
+日本管刺鱼	ri ben guan ci yu	2000
+东洋鲈	dong yang lu	2000
+大棘帆鳍鲉	da ji fan qi you	2000
+印度单棘鲉	yin du dan ji you	2000
+棱须蓑鲉	leng xu suo you	2000
+相模湾疣鲉	xiang mo wan you you	2000
+日本红鲬	ri ben hong yong	2000
+锯棱短棘蓑鲉	ju leng duan ji suo you	2000
+绿鳍鱼	lv qi yu	2000
+棘绿鳍鱼	ji lv qi yu	2000
+多须多指鲉	duo xu duo zhi you	2000
+鳄鲬	e yong	2000
+细鳞项鳍鲉	xi lin xiang qi you	2000
+美丽短鳍蓑鲉	mei li duan qi suo you	2000
+花斑短鳍蓑鲉	hua ban duan qi suo you	2000
+布氏盔蓑鲉	bu shi kui suo you	2000
+虻鲉	meng you	2000
+狮头毒鲉	shi tou du you	2000
+轮头鲂𫚒	lun tou fang fu	2000
+克氏棘线鲬	ke shi ji xian yong	2000
+赫氏无鳔鲉	he shi wu biao you	2000
+吉氏棘鲬	ji shi ji yong	2000
+蓝氏棘鲬	lan shi ji yong	2000
+棘鲉	ji you	2000
+日本瞳鲬	ri ben tong yong	2000
+落合氏瞳鲬	luo he shi tong yong	2000
+居氏鬼鲉	ju shi gui you	2000
+双指鬼鲉	shuang zhi gui you	2000
+日本鬼鲉	ri ben gui you	2000
+中华鬼鲉	zhong hua gui you	2000
+南非纪鲉	nan fei ji you	2000
+凹鳍鲬	ao qi yong	2000
+深海红娘鱼	shen hai hong niang yu	2000
+贡氏红娘鱼	gong shi hong niang yu	2000
+姬红娘鱼	ji hong niang yu	2000
+日本红娘鱼	ri ben hong niang yu	2000
+岸上红娘鱼	an shang hong niang yu	2000
+长头红娘鱼	chang tou hong niang yu	2000
+长指红娘鱼	chang zhi hong niang yu	2000
+小鳍红娘鱼	xiao qi hong niang yu	2000
+圆吻红娘鱼	yuan wen hong niang yu	2000
+长臂囊头鲉	chang bi nang tou you	2000
+单指虎鲉	dan zhi hu you	2000
+长鳍新平鲉	chang qi xin ping you	2000
+大鳞鳞鲬	da lin lin yong	2000
+短鲬	duan yong	2000
+长棘拟鳞鲉	chang ji ni lin you	2000
+异尾拟蓑鲉	yi wei ni suo you	2000
+金圆鳞鲉	jin yuan lin you	2000
+斑鳍圆鳞鲉	ban qi yuan lin you	2000
+东方黄鲂𫚒	dong fang huang fang fu	2000
+菲律宾伪大眼鲉	fei lv bin wei da yan you	2000
+刀鲬	dao yong	2000
+太平洋平头鲉	tai ping yang ping tou you	2000
+触手冠海鲉	chu shou guan hai you	2000
+安汶狭蓑鲉	an wen xia suo you	2000
+诺氏狭蓑鲉	nuo shi xia suo you	2000
+触角蓑鲉	chu jiao suo you	2000
+辐纹蓑鲉	fu wen suo you	2000
+勒氏蓑鲉	le shi suo you	2000
+魔鬼蓑鲉	mo gui suo you	2000
+尖棘角鲂𫚒	jian ji jiao fang fu	2000
+长吻角鲂𫚒	chang wen jiao fang fu	2000
+多斑角鲂𫚒	duo ban jiao fang fu	2000
+琉球角鲂𫚒	liu qiu jiao fang fu	2000
+犬牙鲬	quan ya yong	2000
+前鳍吻鲉	qian qi wen you	2000
+理查森胎鳚	li cha sen tai wei	2000
+倒棘鲬	dao ji yong	2000
+瑞氏红鲂𫚒	rui shi hong fang fu	2000
+魏氏红鲂𫚒	wei shi hong fang fu	2000
+须叉吻鲂𫚒	xu cha wen fang fu	2000
+东方叉吻鲂𫚒	dong fang cha wen fang fu	2000
+冠棘鲉	guan ji you	2000
+伊豆鲉	yi dou you	2000
+斑鳍鲉	ban qi you	2000
+关岛小鲉	guan dao xiao you	2000
+长棘小鲉	chang ji xiao you	2000
+史氏小鲉	shi shi xiao you	2000
+须拟鲉	xu ni you	2000
+魔拟鲉	mo ni you	2000
+拉氏拟鲉	la shi ni you	2000
+黄斑鳞头鲉	huang ban lin tou you	2000
+花腋鳞头鲉	hua ye lin tou you	2000
+厚头平鲉	hou tou ping you	2000
+许氏平鲉	xu shi ping you	2000
+褐菖鲉	he chang you	2000
+三色菖鲉	san se chang you	2000
+根室氏囊头鲉	gen shi shi nang tou you	2000
+大眼斯氏前鳍鲉	da yan si shi qian qi you	2000
+瘤眶棘鲬	liu kuang ji yong	2000
+发鲉	fa you	2000
+大眼鲬	da yan yong	2000
+毒鲉	du you	2000
+玫瑰毒鲉	mei gui du you	2000
+三棘带鲉	san ji dai you	2000
+皮须䍁鲉	pi xu sui you	2000
+瞻星粗头鲉	zhan xing cu tou you	2000
+粗高鳍鲉	cu gao qi you	2000
+裸胸帆鳍鲉	luo xiong fan qi you	2000
+背带帆鳍鲉	bei dai fan qi you	2000
+斑点头棘鲉	ban dian tou ji you	2000
+椭圆头棘鲉	tuo yuan tou ji you	2000
+点斑鳄鲬	dian ban e yong	2000
+博氏孔鲬	bo shi kong yong	2000
+双眼斑短鳍蓑鲉	shuang yan ban duan qi suo you	2000
+无鳔黑鲉	wu biao hei you	2000
+平滑虻鲉	ping hua meng you	2000
+横带棘线鲬	heng dai ji xian yong	2000
+黄带棘鲬	huang dai ji yong	2000
+长指棘鲬	chang zhi ji yong	2000
+翼红娘鱼	yi hong niang yu	2000
+鳞胸红娘鱼	lin xiong hong niang yu	2000
+大眼红娘鱼	da yan hong niang yu	2000
+斑鳍红娘鱼	ban qi hong niang yu	2000
+独指虎鲉	du zhi hu you	2000
+无备虎鲉	wu bei hu you	2000
+丝棘虎鲉	si ji hu you	2000
+五脊虎鲉	wu ji hu you	2000
+辐趾虎鲉	fu zhi hu you	2000
+粗首虎鲉	cu shou hu you	2000
+日本新鳞鲉	ri ben xin lin you	2000
+钝吻新棘鲉	dun wen xin ji you	2000
+大鳞新棘鲉	da lin xin ji you	2000
+曲背新棘鲉	qu bei xin ji you	2000
+条纹线鲉	tiao wen xian you	2000
+棘线鲉	ji xian you	2000
+裸线鲉	luo xian you	2000
+锯齿鳞鲬	ju chi lin yong	2000
+鹿儿岛绒棘鲉	lu er dao rong ji you	2000
+莫桑比克圆鳞鲉	mo sang bi ke yuan lin you	2000
+黑带黄鲂𫚒	hei dai huang fang fu	2000
+大头海鲉	da tou hai you	2000
+环纹蓑鲉	huan wen suo you	2000
+黑颊蓑鲉	hei jia suo you	2000
+少棘蓑鲉	shao ji suo you	2000
+派氏倒棘鲬	pai shi dao ji yong	2000
+阔头红鲂𫚒	kuo tou hong fang fu	2000
+米勒氏鲂𫚒	mi le shi fang fu	2000
+小口鲉	xiao kou you	2000
+后颌鲉	hou he you	2000
+南瓜鲉	nan gua you	2000
+长鳍小鲉	chang qi xiao you	2000
+日本小鲉	ri ben xiao you	2000
+少鳞小鲉	shao lin xiao you	2000
+克氏小鲉	ke shi xiao you	2000
+正小鲉	zheng xiao you	2000
+短翅小鲉	duan chi xiao you	2000
+四棘小鲉	si ji xiao you	2000
+花翅小鲉	hua chi xiao you	2000
+毒拟鲉	du ni you	2000
+钝吻拟鲉	dun wen ni you	2000
+尖头石狗公	jian tou shi gou gong	2000
+枕脊拟鲉	zhen ji ni you	2000
+纹鳍拟鲉	wen qi ni you	2000
+眉须鳞头鲉	mei xu lin tou you	2000
+焦氏平鲉	jiao shi ping you	2000
+白斑菖鲉	bai ban chang you	2000
+大棘大眼鲬	da ji da yan yong	2000
+沙栖苏纳鲬	sha qi su na yong	2000
+粒唇苏纳鲬	li chun su na yong	2000
+西里伯斯䍁鲬	xi li bo si sui yong	2000
+窄眶䍁鲬	zhai kuang sui yong	2000
+长吻䍁鲬	chang wen sui yong	2000
+短吻鬼鲉	duan wen gui you	2000
+尖鳍红娘鱼	jian qi hong niang yu	2000
+红鳍拟鳞鲉	hong qi ni lin you	2000
+香港绒棘鲉	xiang gang rong ji you	2000
+大手拟鲉	da shou ni you	2000
+红嘴烟鲈	hong zui yan lu	2000
+白线光腭鲈	bai xian guang e lu	2000
+特氏紫鲈	te shi zi lu	2000
+斑点九棘鲈	ban dian jiu ji lu	2000
+橙点九棘鲈	cheng dian jiu ji lu	2000
+横纹九棘鲈	heng wen jiu ji lu	2000
+蓝线九棘鲈	lan xian jiu ji lu	2000
+豹纹九棘鲈	bao wen jiu ji lu	2000
+青星九棘鲈	qing xing jiu ji lu	2000
+索氏九棘鲈	suo shi jiu ji lu	2000
+尾纹九棘鲈	wei wen jiu ji lu	2000
+燕赤鮨	yan chi yi	2000
+珠赤鮨	zhu chi yi	2000
+侧斑赤鮨	ce ban chi yi	2000
+驼背鲈	tuo bei lu	2000
+双带黄鲈	shuang dai huang lu	2000
+赤点石斑鱼	chi dian shi ban yu	2000
+镶点石斑鱼	xiang dian shi ban yu	2000
+宝石石斑鱼	bao shi shi ban yu	2000
+青石斑鱼	qing shi ban yu	2000
+布氏石斑鱼	bu shi shi ban yu	2000
+褐带石斑鱼	he dai shi ban yu	2000
+点带石斑鱼	dian dai shi ban yu	2000
+珊瑚石斑鱼	shan hu shi ban yu	2000
+蓝鳍石斑鱼	lan qi shi ban yu	2000
+小纹石斑鱼	xiao wen shi ban yu	2000
+带点石斑鱼	dai dian shi ban yu	2000
+横条石斑鱼	heng tiao shi ban yu	2000
+棕点石斑鱼	zong dian shi ban yu	2000
+颊条石斑鱼	jia tiao shi ban yu	2000
+六角石斑鱼	liu jiao shi ban yu	2000
+鞍带石斑鱼	an dai shi ban yu	2000
+宽带石斑鱼	kuan dai shi ban yu	2000
+长棘石斑鱼	chang ji shi ban yu	2000
+大斑石斑鱼	da ban shi ban yu	2000
+花点石斑鱼	hua dian shi ban yu	2000
+玛拉巴石斑鱼	ma la ba shi ban yu	2000
+蜂巢石斑鱼	feng chao shi ban yu	2000
+弧纹石斑鱼	hu wen shi ban yu	2000
+琉璃石斑鱼	liu li shi ban yu	2000
+清水石斑鱼	qing shui shi ban yu	2000
+玳瑁石斑鱼	dai mao shi ban yu	2000
+雷拖氏石斑鱼	lei tuo shi shi ban yu	2000
+霜点石斑鱼	shuang dian shi ban yu	2000
+吻斑石斑鱼	wen ban shi ban yu	2000
+南海石斑鱼	nan hai shi ban yu	2000
+白星石斑鱼	bai xing shi ban yu	2000
+巨石斑鱼	ju shi ban yu	2000
+三斑石斑鱼	san ban shi ban yu	2000
+波纹石斑鱼	bo wen shi ban yu	2000
+白边纤齿鲈	bai bian xian chi lu	2000
+六带线纹鱼	liu dai xian wen yu	2000
+八带下美鮨	ba dai xia mei yi	2000
+七带下美鮨	qi dai xia mei yi	2000
+紫红拟花鮨	zi hong ni hua yi	2000
+静拟花鮨	jing ni hua yi	2000
+日本棘花鮨	ri ben ji hua yi	2000
+蓝点鳃棘鲈	lan dian sai ji lu	2000
+黑鞍鳃棘鲈	hei an sai ji lu	2000
+豹纹鳃棘鲈	bao wen sai ji lu	2000
+点线鳃棘鲈	dian xian sai ji lu	2000
+眼斑须鮨	yan ban xu yi	2000
+斑点须鮨	ban dian xu yi	2000
+丽拟花鮨	li ni hua yi	2000
+丝鳍拟花鮨	si qi ni hua yi	2000
+珠樱鮨	zhu ying yi	2000
+鲍氏泽鮨	bao shi ze yi	2000
+臀斑月花鮨	tun ban yue hua yi	2000
+姬鮨	ji yi	2000
+鸢鮨	yuan yi	2000
+侧牙鲈	ce ya lu	2000
+双线少孔纹鲷	shuang xian shao kong wen diao	2000
+查氏鱵鲈	zha shi zhen lu	2000
+许氏菱牙鮨	xu shi ling ya yi	2000
+七带九棘鲈	qi dai jiu ji lu	2000
+六斑九棘鲈	liu ban jiu ji lu	2000
+黑缘尾九棘鲈	hei yuan wei jiu ji lu	2000
+台湾赤鮨	tai wan chi yi	2000
+桑氏赤鮨	sang shi chi yi	2000
+点列石斑鱼	dian lie shi ban yu	2000
+萤点石斑鱼	ying dian shi ban yu	2000
+黑斑石斑鱼	hei ban shi ban yu	2000
+纹波石斑鱼	wen bo shi ban yu	2000
+云纹石斑鱼	yun wen shi ban yu	2000
+蓝身大石斑鱼	lan shen da shi ban yu	2000
+桃红巨花鮨	tao hong ju hua yi	2000
+加勒比杰氏线纹鱼	jia le bi jie shi xian wen yu	2000
+荒贺氏长鲈	huang he shi chang lu	2000
+黄背长鲈	huang bei chang lu	2000
+黑缘长鲈	hei yuan chang lu	2000
+日本长鲈	ri ben chang lu	2000
+宽带长鲈	kuan dai chang lu	2000
+新月长鲈	xin yue chang lu	2000
+孙氏长鲈	sun shi chang lu	2000
+黄斑牙花鮨	huang ban ya hua yi	2000
+片山氏牙花鮨	pian shan shi ya hua yi	2000
+红衣牙花鮨	hong yi ya hua yi	2000
+单斑牙花鮨	dan ban ya hua yi	2000
+拟棘花鮨	ni ji hua yi	2000
+长身棘花鲈	chang shen ji hua lu	2000
+海氏棘花鮨	hai shi ji hua yi	2000
+黄吻棘花鮨	huang wen ji hua yi	2000
+凯氏棘花鮨	kai shi ji hua yi	2000
+银点棘花鮨	yin dian ji hua yi	2000
+短棘花鮨	duan ji hua yi	2000
+紫鳞棘花鲈	zi lin ji hua lu	2000
+伦氏棘花鮨	lun shi ji hua yi	2000
+沈氏棘花鮨	shen shi ji hua yi	2000
+威氏棘花鮨	wei shi ji hua yi	2000
+怀特棘花鮨	huai te ji hua yi	2000
+黄斑棘花鮨	huang ban ji hua yi	2000
+山川氏棘花鮨	shan chuan shi ji hua yi	2000
+斑鳃棘鲈	ban sai ji lu	2000
+锯鳃拟花鮨	ju sai ni hua yi	2000
+长拟花鮨	chang ni hua yi	2000
+条纹拟花鮨	tiao wen ni hua yi	2000
+高体拟花鮨	gao ti ni hua yi	2000
+吕宋拟花鮨	lv song ni hua yi	2000
+侧带拟花鮨	ce dai ni hua yi	2000
+红带拟花鮨	hong dai ni hua yi	2000
+多棘拟线鲈	duo ji ni xian lu	2000
+伊豆鮨	yi dou yi	2000
+白边侧牙鲈	bai bian ce ya lu	2000
+双棘石斑鱼	shuang ji shi ban yu	2000
+荷氏石斑鱼	he shi shi ban yu	2000
+多鳞石斑鱼	duo lin shi ban yu	2000
+蠕线鳃棘鲈	ru xian sai ji lu	2000
+太平洋玉筋鱼	tai ping yang yu jin yu	2000
+黄拟鲈	huang ni lu	2000
+四斑拟鲈	si ban ni lu	2000
+圆拟鲈	yuan ni lu	2000
+长鳍拟鲈	chang qi ni lu	2000
+六睛拟鲈	liu jing ni lu	2000
+垦丁拟鲈	ken ding ni lu	2000
+雪点拟鲈	xue dian ni lu	2000
+眼斑拟鲈	yan ban ni lu	2000
+太平洋拟鲈	tai ping yang ni lu	2000
+六带拟鲈	liu dai ni lu	2000
+史氏拟鲈	shi shi ni lu	2000
+斑棘拟鲈	ban ji ni lu	2000
+黄纹拟鲈	huang wen ni lu	2000
+紫䲢	zi teng	2000
+双斑䲢	shuang ban teng	2000
+中华䲢	zhong hua teng	2000
+日本䲢	ri ben teng	2000
+少鳞䲢	shao lin teng	2000
+土佐䲢	tu zuo teng	2000
+青奇头䲢	qing qi tou teng	2000
+箕作布氏筋鱼	ji zuo bu shi jin yu	2000
+绿鳗布氏筋鱼	lv man bu shi jin yu	2000
+东方披肩䲢	dong fang pi jian teng	2000
+黄带高知鲈	huang dai gao zhi lu	2000
+十横斑拟鲈	shi heng ban ni lu	2000
+东沙拟鲈	dong sha ni lu	2000
+蒲原氏拟鲈	pu yuan shi ni lu	2000
+黄斑拟鲈	huang ban ni lu	2000
+大眼拟鲈	da yan ni lu	2000
+莫氏拟鲈	mo shi ni lu	2000
+多带拟鲈	duo dai ni lu	2000
+鞍带拟鲈	an dai ni lu	2000
+冈村氏拟鲈	gang cun shi ni lu	2000
+美拟鲈	mei ni lu	2000
+兰道氏拟鲈	lan dao shi ni lu	2000
+红点拟鲈	hong dian ni lu	2000
+玫瑰拟鲈	mei gui ni lu	2000
+邵氏拟鲈	shao shi ni lu	2000
+斑纹拟鲈	ban wen ni lu	2000
+短身原玉筋鱼	duan shen yuan yu jin yu	2000
+丑披肩䲢	chou pi jian teng	2000
+岸本䲢	an ben teng	2000
+绿鸡冠鳚	lv ji guan wei	2000
+日本笠鳚	ri ben li wei	2000
+伍氏笠鳚	wu shi li wei	2000
+伯氏网鳚	bo shi wang wei	2000
+六线鳚	liu xian wei	2000
+粗棘锦鳚	cu ji jin wei	2000
+方氏锦鳚	fang shi jin wei	2000
+长绵鳚	chang mian wei	2000
+吉氏绵鳚	ji shi mian wei	2000
+短颌小绵鳚	duan he xiao mian wei	2000
+内田小绵鳚	nei tian xiao mian wei	2000
+角鳎	jiao ta	2000
+日本羊舌鲆	ri ben yang she ping	2000
+长冠羊舌鲆	chang guan yang she ping	2000
+多斑羊舌鲆	duo ban yang she ping	2000
+大羊舌鲆	da yang she ping	2000
+长鳍羊舌鲆	chang qi yang she ping	2000
+细羊舌鲆	xi yang she ping	2000
+杜比栉鳞鳎	du bi zhi lin ta	2000
+日本栉鳞鳎	ri ben zhi lin ta	2000
+褐斑栉鳞鳎	he ban zhi lin ta	2000
+中间角鲆	zhong jian jiao ping	2000
+圆鳞鲆	yuan lin ping	2000
+凹吻鲆	ao wen ping	2000
+繁星鲆	fan xing ping	2000
+豹纹鲆	bao wen ping	2000
+东方宽箬鳎	dong fang kuan ruo ta	2000
+恒河宽箬鳎	heng he kuan ruo ta	2000
+新西兰短鲽	xin xi lan duan die	2000
+大口长颌鲆	da kou chang he ping	2000
+菲律宾拟棘鲆	fei lv bin ni ji ping	2000
+松木高眼鲽	song mu gao yan die	2000
+粒鲽	li die	2000
+青缨鲆	qing ying ping	2000
+高本缨鲆	gao ben ying ping	2000
+宽额青缨鲆	kuan e qing ying ping	2000
+短舌鳎	duan she ta	2000
+印度舌鳎	yin du she ta	2000
+双线舌鳎	shuang xian she ta	2000
+窄体舌鳎	zhai ti she ta	2000
+断线舌鳎	duan xian she ta	2000
+单孔舌鳎	dan kong she ta	2000
+焦氏舌鳎	jiao shi she ta	2000
+格氏舌鳎	ge shi she ta	2000
+长吻舌鳎	chang wen she ta	2000
+线纹舌鳎	xian wen she ta	2000
+巨鳞舌鳎	ju lin she ta	2000
+黑尾舌鳎	hei wei she ta	2000
+南海舌鳎	nan hai she ta	2000
+黑鳍舌鳎	hei qi she ta	2000
+寡鳞舌鳎	gua lin she ta	2000
+斑头舌鳎	ban tou she ta	2000
+紫斑舌鳎	zi ban she ta	2000
+宽体舌鳎	kuan ti she ta	2000
+黑鳃舌鳎	hei sai she ta	2000
+半滑舌鳎	ban hua she ta	2000
+西宝舌鳎	xi bao she ta	2000
+中华舌鳎	zhong hua she ta	2000
+三线舌鳎	san xian she ta	2000
+盘状舌鳎	pan zhuang she ta	2000
+长鳍短额鲆	chang qi duan e ping	2000
+伟鳞短额鲆	wei lin duan e ping	2000
+宽额短额鲆	kuan e duan e ping	2000
+长腹鳍短额鲆	chang fu qi duan e ping	2000
+黑斑短额鲆	hei ban duan e ping	2000
+多鳞短额鲆	duo lin duan e ping	2000
+格氏虫鲽	ge shi chong die	2000
+长鲽	chang die	2000
+多眼双线鲆	duo yan shuang xian ping	2000
+日本钩嘴鳎	ri ben gou zui ta	2000
+松原氏钩嘴鳎	song yuan shi gou zui ta	2000
+犬形拟庸鲽	quan xing ni yong die	2000
+北原氏左鲆	bei yuan shi zuo ping	2000
+矛状左鲆	mao zhuang zuo ping	2000
+小头左鲆	xiao tou zuo ping	2000
+鳞眼鲆	lin yan ping	2000
+黑斑圆鳞鳎	hei ban yuan lin ta	2000
+亚洲油鲽	ya zhou you die	2000
+毛鳍单臂鳎	mao qi dan bi ta	2000
+小眼新左鲆	xiao yan xin zuo ping	2000
+短腹拟鲆	duan fu ni ping	2000
+牙鲆	ya ping	2000
+双线须鳎	shuang xian xu ta	2000
+栉鳞须鳎	zhi lin xu ta	2000
+日本须鳎	ri ben xu ta	2000
+眼斑豹鳎	yan ban bao ta	2000
+舌形斜颌鲽	she xing xie he die	2000
+石鲽	shi die	2000
+星斑川鲽	xing ban chuan die	2000
+木叶鲽	mu ye die	2000
+黑斑瓦鲽	hei ban wa die	2000
+双斑瓦鲽	shuang ban wa die	2000
+长体瓦鲽	chang ti wa die	2000
+丝指鳒鲆	si zhi jian ping	2000
+海南鳒鲆	hai nan jian ping	2000
+饭岛氏鳒鲆	fan dao shi jian ping	2000
+大口鳒	da kou jian	2000
+赫氏鲽	he shi die	2000
+暗色拟鲽	an se ni die	2000
+钝吻拟鲽	dun wen ni die	2000
+大齿斑鲆	da chi ban ping	2000
+桂皮斑鲆	gui pi ban ping	2000
+双瞳斑鲆	shuang tong ban ping	2000
+高体斑鲆	gao ti ban ping	2000
+爪哇斑鲆	zhao wa ban ping	2000
+圆鳞斑鲆	yuan lin ban ping	2000
+马来斑鲆	ma lai ban ping	2000
+南海斑鲆	nan hai ban ping	2000
+少牙斑鲆	shao ya ban ping	2000
+五眼斑鲆	wu yan ban ping	2000
+五目斑鲆	wu mu ban ping	2000
+冠鲽	guan die	2000
+丝鳍沙鲽	si qi sha die	2000
+胡氏沙鲽	hu shi sha die	2000
+满月沙鲽	man yue sha die	2000
+卵鳎	luan ta	2000
+东方无线鳎	dong fang wu xian ta	2000
+高体大鳞鲆	gao ti da lin ping	2000
+花鲆	hua ping	2000
+条斑星鲽	tiao ban xing die	2000
+圆斑星鲽	yuan ban xing die	2000
+缨鳞条鳎	ying lin tiao ta	2000
+日本条鳎	ri ben tiao ta	2000
+峨嵋条鳎	e mei tiao ta	2000
+条鳎	tiao ta	2000
+无斑羊舌鲆	wu ban yang she ping	2000
+陈氏栉鳞鳎	chen shi zhi lin ta	2000
+东方栉鳞鳎	dong fang zhi lin ta	2000
+外来栉鳞鳎	wai lai zhi lin ta	2000
+云斑宽箬鳎	yun ban kuan ruo ta	2000
+盾宽箬鳎	dun kuan ruo ta	2000
+霍文缨鲆	huo wen ying ping	2000
+双带缨鲆	shuang dai ying ping	2000
+南洋舌鳎	nan yang she ta	2000
+书颜舌鳎	shu yan she ta	2000
+窄额短额鲆	zhai e duan e ping	2000
+蚵寮短额鲆	ke liao duan e ping	2000
+大鳞短额鲆	da lin duan e ping	2000
+马尔代夫短额鲆	ma er dai fu duan e ping	2000
+莫桑比克短额鲆	mo sang bi ke duan e ping	2000
+光短额鲆	guang duan e ping	2000
+克氏双线鲆	ke shi shuang xian ping	2000
+多齿日本左鲆	duo chi ri ben zuo ping	2000
+大嘴鳄口鲆	da zui e kou ping	2000
+光耀左鲆	guang yao zuo ping	2000
+台湾拟鲆	tai wan ni ping	2000
+布氏须鳎	bu shi xu ta	2000
+长鳒鲆	chang jian ping	2000
+土佐鳒鲆	tu zuo jian ping	2000
+栉鳞斑鲆	zhi lin ban ping	2000
+长臂沙鲽	chang bi sha die	2000
+三斑沙鲽	san ban sha die	2000
+异吻长鼻鳎	yi wen chang bi ta	2000
+洪氏无线鳎	hong shi wu xian ta	2000
+白边无线鳎	bai bian wu xian ta	2000
+巨体无线鳎	ju ti wu xian ta	2000
+多斑无线鳎	duo ban wu xian ta	2000
+九带无线鳎	jiu dai wu xian ta	2000
+尖吻无线鳎	jian wen wu xian ta	2000
+多线无线鳎	duo xian wu xian ta	2000
+线纹条鳎	xian wen tiao ta	2000
+斯氏宽箬鳎	si shi kuan ruo ta	2000
+高眼舌鳎	gao yan she ta	2000
+小口鳒鲆	xiao kou jian ping	2000
+杂色鳒鲆	za se jian ping	2000
+眼斑线鳍鲆	yan ban xian qi ping	2000
+短须须鳂	duan xu xu wei	2000
+日本须鳂	ri ben xu wei	2000
+长棘须鳂	chang ji xu wei	2000
+日本锯鲨	ri ben ju sha	2000
+南海无鳍鳐	nan hai wu qi yao	2000
+美鳐	mei yao	2000
+华鳐	hua yao	2000
+巨长吻鳐	ju chang wen yao	2000
+大尾长吻鳐	da wei chang wen yao	2000
+天狗长吻鳐	tian gou chang wen yao	2000
+汉霖长吻鳐	han lin chang wen yao	2000
+日本隆背鳐	ri ben long bei yao	2000
+鲍氏瓮鳐	bao shi weng yao	2000
+何氏瓮鳐	he shi weng yao	2000
+斑瓮鳐	ban weng yao	2000
+麦氏瓮鳐	mai shi weng yao	2000
+孟氏瓮鳐	meng shi weng yao	2000
+婆罗洲海湾无鳍鳐	po luo zhou hai wan wu qi yao	2000
+林氏深海鳐	lin shi shen hai yao	2000
+广东长吻鳐	guang dong chang wen yao	2000
+尖棘瓮鳐	jian ji weng yao	2000
+黑体海湾无鳍鳐	hei ti hai wan wu qi yao	2000
+钝锯鳐	dun ju yao	2000
+后鳍锯鳐	hou qi ju yao	2000
+波口鲎头鲼	bo kou hou tou fen	2000
+台湾犁头鳐	tai wan li tou yao	2000
+斑纹犁头鳐	ban wen li tou yao	2000
+许氏犁头鳐	xu shi li tou yao	2000
+光滑尖犁头鳐	guang hua jian li tou yao	2000
+颗粒蓝吻犁头鳐	ke li lan wen li tou yao	2000
+小眼琵琶鲼	xiao yan pi pa fen	2000
+无斑龙纹鲼	wu ban long wen fen	2000
+白斑红点鲑	bai ban hong dian gui	2000
+沙氏刺鲅	sha shi ci ba	2000
+印度无齿鲳	yin du wu chi chang	2000
+大眼无齿鲳	da yan wu chi chang	2000
+双鳍舵鲣	shuang qi duo jian	2000
+扁舵鲣	bian duo jian	2000
+叉尾深海带鱼	cha wei shen hai dai yu	2000
+日本乌鲂	ri ben wu fang	2000
+真乌鲂	zhen wu fang	2000
+小带鱼	xiao dai yu	2000
+鲔	wei	2000
+蛇鲭	she qing	2000
+澳洲双线鲭	ao zhou shuang xian qing	2000
+裸狐鲣	luo hu jian	2000
+鲣	jian	2000
+异鳞蛇鲭	yi lin she qing	2000
+沙带鱼	sha dai yu	2000
+三棘若蛇鲭	san ji ruo she qing	2000
+东方新蛇鲭	dong fang xin she qing	2000
+无耙蛇鲭	wu pa she qing	2000
+水母双鳍鲳	shui mu shuang qi chang	2000
+银鲳	yin chang	2000
+灰鲳	hui chang	2000
+镜鲳	jing chang	2000
+纺锤蛇鲭	fang chui she qing	2000
+水母玉鲳	shui mu yu chang	2000
+玻璃玉鲳	bo li yu chang	2000
+花瓣玉鲳	hua ban yu chang	2000
+刺鲳	ci chang	2000
+羽鳃鲐	yu sai tai	2000
+短蛇鲭	duan she qing	2000
+棘鳞蛇鲭	ji lin she qing	2000
+东方狐鲣	dong fang hu jian	2000
+澳洲鲭	ao zhou qing	2000
+日本鲭	ri ben qing	2000
+康氏马鲛	kang shi ma jiao	2000
+斑点马鲛	ban dian ma jiao	2000
+朝鲜马鲛	chao xian ma jiao	2000
+蓝点马鲛	lan dian ma jiao	2000
+中华马鲛	zhong hua ma jiao	2000
+狭颅带鱼	xia lu dai yu	2000
+居氏方尾鲳	ju shi fang wei chang	2000
+长鳍金枪鱼	chang qi jin qiang yu	2000
+黄鳍金枪鱼	huang qi jin qiang yu	2000
+大眼金枪鱼	da yan jin qiang yu	2000
+东方金枪鱼	dong fang jin qiang yu	2000
+青干金枪鱼	qing gan jin qiang yu	2000
+黑鳍蛇鲭	hei qi she qing	2000
+短带鱼	duan dai yu	2000
+日本带鱼	ri ben dai yu	2000
+高鳍带鱼	gao qi dai yu	2000
+黑叉齿龙䲢	hei cha chi long teng	2000
+怀氏方头鲳	huai shi fang tou chang	2000
+太平洋短鳍蛇鲭	tai ping yang duan qi she qing	2000
+波氏窄颅带鱼	bo shi zhai lu dai yu	2000
+条状窄颅带鱼	tiao zhuang zhai lu dai yu	2000
+日本栉鲳	ri ben zhi chang	2000
+中国鲳	zhong guo chang	2000
+彼氏高鳍鲂	bi shi gao qi fang	2000
+福氏羽鳃鲐	fu shi yu sai tai	2000
+红棱鲂	hong leng fang	2000
+斯氏长鳍乌鲂	si shi chang qi wu fang	2000
+南海带鱼	nan hai dai yu	2000
+砂海鲶	sha hai nian	2000
+斑海鲶	ban hai nian	2000
+细尾六丝鲶	xi wei liu si nian	2000
+双线多齿海鲶	shuang xian duo chi hai nian	2000
+大头多齿海鲶	da tou duo chi hai nian	2000
+内尔褶囊海鲶	nei er zhe nang hai nian	2000
+线纹鳗鲶	xian wen man nian	2000
+中华疯鲿	zhong hua feng chang	2000
+长须鳗鲶	chang xu man nian	2000
+颗粒刺鲨	ke li ci sha	2000
+等齿刺鲨	deng chi ci sha	2000
+低鳍刺鲨	di qi ci sha	2000
+叶鳞刺鲨	ye lin ci sha	2000
+锯齿刺鲨	ju chi ci sha	2000
+蒲原氏霞鲨	pu yuan shi xia sha	2000
+欧氏荆鲨	ou shi jing sha	2000
+铠鲨	kai sha	2000
+喙吻田氏鲨	hui wen tian shi sha	2000
+南海乌鲨	nan hai wu sha	2000
+亮乌鲨	liang wu sha	2000
+宽尾拟角鲨	kuan wei ni jiao sha	2000
+白斑角鲨	bai ban jiao sha	2000
+短吻角鲨	duan wen jiao sha	2000
+日本角鲨	ri ben jiao sha	2000
+大眼角鲨	da yan jiao sha	2000
+长吻角鲨	chang wen jiao sha	2000
+鳞睡鲨	lin shui sha	2000
+黑缘刺鲨	hei yuan ci sha	2000
+长鳍刺鲨	chang qi ci sha	2000
+皱皮刺鲨	zhou pi ci sha	2000
+长须卷盔鲨	chang xu juan kui sha	2000
+比氏乌鲨	bi shi wu sha	2000
+短尾乌鲨	duan wei wu sha	2000
+伯氏乌鲨	bo shi wu sha	2000
+庄氏乌鲨	zhuang shi wu sha	2000
+小乌鲨	xiao wu sha	2000
+斯普兰汀乌鲨	si pu lan ting wu sha	2000
+巴西达摩鲨	ba xi da mo sha	2000
+日本尖背角鲨	ri ben jian bei jiao sha	2000
+陈氏睡鲨	chen shi shui sha	2000
+阿里拟角鲨	a li ni jiao sha	2000
+高鳍角鲨	gao qi jiao sha	2000
+台湾角鲨	tai wan jiao sha	2000
+日本扁鲨	ri ben bian sha	2000
+星云扁鲨	xing yun bian sha	2000
+拟背斑扁鲨	ni bei ban bian sha	2000
+台湾扁鲨	tai wan bian sha	2000
+棘银斧鱼	ji yin fu yu	2000
+长银斧鱼	chang yin fu yu	2000
+半裸银斧鱼	ban luo yin fu yu	2000
+斯氏银斧鱼	si shi yin fu yu	2000
+印度星衫鱼	yin du xing shan yu	2000
+荧光星衫鱼	ying guang xing shan yu	2000
+掠食巨口鱼	lve shi ju kou yu	2000
+斯氏蝰鱼	si shi kui yu	2000
+斜齿圆罩鱼	xie chi yuan zhao yu	2000
+白圆罩鱼	bai yuan zhao yu	2000
+黑圆罩鱼	hei yuan zhao yu	2000
+暗圆罩鱼	an yuan zhao yu	2000
+苍圆罩鱼	cang yuan zhao yu	2000
+近苍圆罩鱼	jin cang yuan zhao yu	2000
+带纹双光鱼	dai wen shuang guang yu	2000
+近视真巨口鱼	jin shi zhen ju kou yu	2000
+大西洋钻光鱼	da xi yang zuan guang yu	2000
+卵圆颌光鱼	luan yuan he guang yu	2000
+奇棘鱼	qi ji yu	2000
+黑柔骨鱼	hei rou gu yu	2000
+穆氏暗光鱼	mu shi an guang yu	2000
+脂巨口鱼	zhi ju kou yu	2000
+小牙厚巨口鱼	xiao ya hou ju kou yu	2000
+白鳍袋巨口鱼	bai qi dai ju kou yu	2000
+大牙光巨口鱼	da ya guang ju kou yu	2000
+光带烛光鱼	guang dai zhu guang yu	2000
+宽柄烛光鱼	kuan bing zhu guang yu	2000
+三齿烛光鱼	san chi zhu guang yu	2000
+腹灯刀光鱼	fu deng dao guang yu	2000
+长刀光鱼	chang dao guang yu	2000
+长纤钻光鱼	chang xian zuan guang yu	2000
+柔身纤钻光鱼	rou shen xian zuan guang yu	2000
+褶胸鱼	zhe xiong yu	2000
+暗色褶胸鱼	an se zhe xiong yu	2000
+拟暗色褶胸鱼	ni an se zhe xiong yu	2000
+巨口鱼	ju kou yu	2000
+星云巨口鱼	xing yun ju kou yu	2000
+缨光鱼	ying guang yu	2000
+卡氏丛光鱼	ka shi cong guang yu	2000
+三斑丛光鱼	san ban cong guang yu	2000
+狭串光鱼	xia chuan guang yu	2000
+智利串光鱼	zhi li chuan guang yu	2000
+强串光鱼	qiang chuan guang yu	2000
+金星衫鱼	jin xing shan yu	2000
+费氏星衫鱼	fei shi xing shan yu	2000
+台湾星衫鱼	tai wan xing shan yu	2000
+印太星衫鱼	yin tai xing shan yu	2000
+丝球星衫鱼	si qiu xing shan yu	2000
+三丝星衫鱼	san si xing shan yu	2000
+太平洋双光鱼	tai ping yang shuang guang yu	2000
+西太双灯鱼	xi tai shuang deng yu	2000
+花瓣真巨口鱼	hua ban zhen ju kou yu	2000
+花心真巨口鱼	hua xin zhen ju kou yu	2000
+三丝真巨口鱼	san si zhen ju kou yu	2000
+蛇口异星杉鱼	she kou yi xing shan yu	2000
+强壮纤巨口鱼	qiang zhuang xian ju kou yu	2000
+乌须黑巨口鱼	wu xu hei ju kou yu	2000
+闪电烛光鱼	shan dian zhu guang yu	2000
+三烛光鱼	san zhu guang yu	2000
+单棘烛光鱼	dan ji zhu guang yu	2000
+细杉鱼	xi shan yu	2000
+条纹虾鱼	tiao wen xia yu	2000
+中华管口鱼	zhong hua guan kou yu	2000
+玻甲鱼	bo jia yu	2000
+雕纹猪海龙	diao wen zhu hai long	2000
+黄带冠海龙	huang dai guan hai long	2000
+宝珈枪吻海龙	bao jia qiang wen hai long	2000
+蓝带矛吻海龙	lan dai mao wen hai long	2000
+带纹斑节海龙	dai wen ban jie hai long	2000
+无鳞烟管鱼	wu lin yan guan yu	2000
+鳞烟管鱼	lin yan guan yu	2000
+葛氏海蠋鱼	ge shi hai zhu yu	2000
+蓝点多环海龙	lan dian duo huan hai long	2000
+前鳍多环海龙	qian qi duo huan hai long	2000
+笔状多环海龙	bi zhuang duo huan hai long	2000
+刺海马	ci hai ma	2000
+大海马	da hai ma	2000
+库达海马	ku da hai ma	2000
+三斑海马	san ban hai ma	2000
+细长吻鱼	xi chang wen yu	2000
+长吻鱼	chang wen yu	2000
+黑锥海龙	hei zhui hai long	2000
+哈氏刀海龙	ha shi dao hai long	2000
+锯吻剃刀鱼	ju wen ti dao yu	2000
+细吻剃刀鱼	xi wen ti dao yu	2000
+尖海龙	jian hai long	2000
+短尾粗吻海龙	duan wei cu wen hai long	2000
+锯粗吻海龙	ju cu wen hai long	2000
+带纹须海龙	dai wen xu hai long	2000
+红鳍冠海龙	hong qi guan hai long	2000
+斑氏环宇海龙	ban shi huan yu hai long	2000
+日本矛吻海龙	ri ben mao wen hai long	2000
+大吻海蠋鱼	da wen hai zhu yu	2000
+马塔法海蠋鱼	ma ta fa hai zhu yu	2000
+带纹多环海龙	dai wen duo huan hai long	2000
+棘海马	ji hai ma	2000
+短尾海龙	duan wei hai long	2000
+无棘腹囊海龙	wu ji fu nang hai long	2000
+印尼腹囊海龙	yin ni fu nang hai long	2000
+双棘锥海龙	shuang ji zhui hai long	2000
+蓝鳍剃刀鱼	lan qi ti dao yu	2000
+双棘拟海龙	shuang ji ni hai long	2000
+薛氏海龙	xue shi hai long	2000
+漂海龙	piao hai long	2000
+宽尾鳞鲀	kuan wei lin tun	2000
+白线鬃尾鲀	bai xian zong wei tun	2000
+单角革鲀	dan jiao ge tun	2000
+拟态革鲀	ni tai ge tun	2000
+美尾棘鲀	mei wei ji tun	2000
+白点宽吻鲀	bai dian kuan wen tun	2000
+瓣叉鼻鲀	ban cha bi tun	2000
+纹腹叉鼻鲀	wen fu cha bi tun	2000
+无斑叉鼻鲀	wu ban cha bi tun	2000
+白点叉鼻鲀	bai dian cha bi tun	2000
+黑斑叉鼻鲀	hei ban cha bi tun	2000
+星斑叉鼻鲀	xing ban cha bi tun	2000
+日本下棘鲀	ri ben xia ji tun	2000
+波纹钩鳞鲀	bo wen gou lin tun	2000
+花斑拟鳞鲀	hua ban ni lin tun	2000
+褐拟鳞鲀	he ni lin tun	2000
+长棘卫渊鲀	chang ji wei yuan tun	2000
+棘尾前孔鲀	ji wei qian kong tun	2000
+细斑前孔鲀	xi ban qian kong tun	2000
+疣鳞鲀	you lin tun	2000
+卵圆疣鳞鲀	luan yuan you lin tun	2000
+点线扁背鲀	dian xian bian bei tun	2000
+水纹扁背鲀	shui wen bian bei tun	2000
+横带扁背鲀	heng dai bian bei tun	2000
+单棘棘皮鲀	dan ji ji pi tun	2000
+凹鼻鲀	ao bi tun	2000
+网纹短刺鲀	wang wen duan ci tun	2000
+婆罗洲仰鼻鲀	po luo zhou yang bi tun	2000
+六斑刺鲀	liu ban ci tun	2000
+密斑刺鲀	mi ban ci tun	2000
+大斑刺鲀	da ban ci tun	2000
+棘箱鲀	ji xiang tun	2000
+角箱鲀	jiao xiang tun	2000
+黑鳃兔头鲀	hei sai tu tou tun	2000
+兔头鲀	tu tou tun	2000
+月尾兔头鲀	yue wei tu tou tun	2000
+圆斑兔头鲀	yuan ban tu tou tun	2000
+棕斑兔头鲀	zong ban tu tou tun	2000
+尤氏拟管吻鲀	you shi ni guan wen tun	2000
+矛尾翻车鲀	mao wei fan che tun	2000
+角鳞鲀	jiao lin tun	2000
+黑边角鳞鲀	hei bian jiao lin tun	2000
+翻车鲀	fan che tun	2000
+中华单角鲀	zhong hua dan jiao tun	2000
+红牙鳞鲀	hong ya lin tun	2000
+点斑箱鲀	dian ban xiang tun	2000
+白点箱鲀	bai dian xiang tun	2000
+突吻箱鲀	tu wen xiang tun	2000
+尖吻鲀	jian wen tun	2000
+斑腰单孔鲀	ban yao dan kong tun	2000
+锯尾副革鲀	ju wei fu ge tun	2000
+长吻副单角鲀	chang wen fu dan jiao tun	2000
+布什勒副单角鲀	bu shi le fu dan jiao tun	2000
+倒棘副三棘鲀	dao ji fu san ji tun	2000
+红尾前角鲀	hong wei qian jiao tun	2000
+黑头前角鲀	hei tou qian jiao tun	2000
+黑副鳞鲀	hei fu lin tun	2000
+斑点长翻车鲀	ban dian chang fan che tun	2000
+叉斑锉鳞鲀	cha ban cuo lin tun	2000
+黑带锉鳞鲀	hei dai cuo lin tun	2000
+粗皮鲀	cu pi tun	2000
+密沟圆鲀	mi gou yuan tun	2000
+丝背细鳞鲀	si bei xi lin tun	2000
+黄鳍多棘鳞鲀	huang qi duo ji lin tun	2000
+缰纹多棘鳞鲀	jiang wen duo ji lin tun	2000
+铅点多纪鲀	qian dian duo ji tun	2000
+双斑多纪鲀	shuang ban duo ji tun	2000
+晕环多纪鲀	yun huan duo ji tun	2000
+菊黄多纪鲀	ju huang duo ji tun	2000
+黑点多纪鲀	hei dian duo ji tun	2000
+暗色多纪鲀	an se duo ji tun	2000
+弓斑多纪鲀	gong ban duo ji tun	2000
+圆斑多纪鲀	yuan ban duo ji tun	2000
+豹纹多纪鲀	bao wen duo ji tun	2000
+斜斑多纪鲀	xie ban duo ji tun	2000
+斑点多纪鲀	ban dian duo ji tun	2000
+假眼多纪鲀	jia yan duo ji tun	2000
+网纹多纪鲀	wang wen duo ji tun	2000
+红鳍多纪鲀	hong qi duo ji tun	2000
+花斑多纪鲀	hua ban duo ji tun	2000
+虫纹多纪鲀	chong wen duo ji tun	2000
+黄鳍多纪鲀	huang qi duo ji tun	2000
+驼背真三棱箱鲀	tuo bei zhen san leng xiang tun	2000
+马面鲀	ma mian tun	2000
+绿鳍马面鲀	lv qi ma mian tun	2000
+密斑马面鲀	mi ban ma mian tun	2000
+头纹窄额鲀	tou wen zhai e tun	2000
+拟三刺鲀	ni san ci tun	2000
+双棘三刺鲀	shuang ji san ci tun	2000
+三齿鲀	san chi tun	2000
+尖尾倒刺鲀	jian wei dao ci tun	2000
+长刺泰氏鲀	chang ci tai shi tun	2000
+金边黄鳞鲀	jin bian huang lin tun	2000
+线斑黄鳞鲀	xian ban huang lin tun	2000
+菲律宾叉鼻鲀	fei lv bin cha bi tun	2000
+辐纹叉鼻鲀	fu wen cha bi tun	2000
+网纹叉鼻鲀	wang wen cha bi tun	2000
+纵带前孔鲀	zong dai qian kong tun	2000
+安汶扁背鲀	an wen bian bei tun	2000
+轴扁背鲀	zhou bian bei tun	2000
+细纹扁背鲀	xi wen bian bei tun	2000
+亮丽扁背鲀	liang li bian bei tun	2000
+圆点扁背鲀	yuan dian bian bei tun	2000
+圆斑扁背鲀	yuan ban bian bei tun	2000
+细斑扁背鲀	xi ban bian bei tun	2000
+圆点圆刺鲀	yuan dian yuan ci tun	2000
+艾氏刺鲀	ai shi ci tun	2000
+阿氏管吻鲀	a shi guan wen tun	2000
+棘背角箱鲀	ji bei jiao xiang tun	2000
+福氏角箱鲀	fu shi jiao xiang tun	2000
+克氏兔头鲀	ke shi tu tou tun	2000
+怀氏兔头鲀	huai shi tu tou tun	2000
+拉氏翻车鲀	la shi fan che tun	2000
+无斑箱鲀	wu ban xiang tun	2000
+蓝带箱鲀	lan dai xiang tun	2000
+日本副单角鲀	ri ben fu dan jiao tun	2000
+长方副单角鲀	chang fang fu dan jiao tun	2000
+绒纹副单角鲀	rong wen fu dan jiao tun	2000
+粗尾前角鲀	cu wei qian jiao tun	2000
+黄缘副鳞鲀	huang yuan fu lin tun	2000
+长吻假三刺鲀	chang wen jia san ci tun	2000
+毒锉鳞鲀	du cuo lin tun	2000
+项带多棘鳞鲀	xiang dai duo ji lin tun	2000
+横纹多纪鲀	heng wen duo ji tun	2000
+双峰真三棱箱鲀	shuang feng zhen san leng xiang tun	2000
+黄鳍马面鲀	huang qi ma mian tun	2000
+拟绿鳍马面鲀	ni lv qi ma mian tun	2000
+多纹刺鼻单角鲀	duo wen ci bi dan jiao tun	2000
+布氏三足刺鲀	bu shi san zu ci tun	2000
+巴布亚扁背鲀	ba bu ya bian bei tun	2000
+黄斑圆刺鲀	huang ban yuan ci tun	2000
+紫色多纪鲀	zi se duo ji tun	2000
+坚皮单鳍电鳐	jian pi dan qi dian yao	2000
+短唇双鳍电鳐	duan chun shuang qi dian yao	2000
+舌形双鳍电鳐	she xing shuang qi dian yao	2000
+黑斑双鳍电鳐	hei ban shuang qi dian yao	2000
+前背双鳍电鳐	qian bei shuang qi dian yao	2000
+丁氏双鳍电鳐	ding shi shuang qi dian yao	2000
+双翅单鳍电鳐	shuang chi dan qi dian yao	2000
+日本单鳍电鳐	ri ben dan qi dian yao	2000
+中国团扇鳐	zhong guo tuan shan yao	2000
+汤氏团扇鳐	tang shi tuan shan yao	2000
+东京电鲼	dong jing dian fen	2000
+杨氏深海电鳐	yang shi shen hai dian yao	2000
+台湾电鳐	tai wan dian yao	2000
+角高体金眼鲷	jiao gao ti jin yan diao	2000
+前肛管燧鲷	qian gang guan sui diao	2000
+日本桥棘鲷	ri ben qiao ji diao	2000
+重胸棘鲷	zhong xiong ji diao	2000
+地中海胸棘鲷	di zhong hai xiong ji diao	2000
+日本松球鱼	ri ben song qiu yu	2000
+菲律宾灯颊鲷	fei lv bin deng jia diao	2000
+银眼鲷	yin yan diao	2000
+达氏桥棘鲷	da shi qiao ji diao	2000
+金钻凤梨鱼	jin zuan feng li yu	2000
+麦氏原灯颊鲷	mai shi yuan deng jia diao	2000
+青菱海鲂	qing ling hai fang	2000
+红腹棘海鲂	hong fu ji hai fang	2000
+太平洋副海鲂	tai ping yang fu hai fang	2000
+几内亚湾异菱的鲷	ji nei ya wan yi ling de diao	2000
+小海鲂	xiao hai fang	2000
+日本小海鲂	ri ben xiao hai fang	2000
+云纹亚海鲂	yun wen ya hai fang	2000
+远东海鲂	yuan dong hai fang	2000
+多棘亚海鲂	duo ji ya hai fang	2000
+
